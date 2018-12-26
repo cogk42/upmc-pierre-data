@@ -5,7 +5,7 @@
   end: 9.7988208617
   segments:
   - lab: _
-    dur: 0.645
+    dur: 1.099969
   - lab: k
     dur: 0.05
   - lab: a
@@ -164,10 +164,10 @@
   text: les orientations de maître bocca sont centrées autour de trois objectifs, identité, responsabilité, efficacité .
   date: 2013-06-28T20:44:42Z
   start: 9.7988208617
-  end: 19.6905215420
+  end: 19.690521542
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.894969
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -331,11 +331,11 @@
 - prompt: text_0003
   text: atteint par une terrible maladie, il poursuivit son travail à new-york jusqu'à l'extrême limite de ses forces .
   date: 2013-06-28T20:44:42Z
-  start: 19.6905215420
+  start: 19.690521542
   end: 29.4893424037
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.334969
   - lab: a
     dur: 0.145
   - lab: t
@@ -497,7 +497,7 @@
   end: 39.1024036282
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.004969
   - lab: a
     dur: 0.1
   - lab: v
@@ -657,7 +657,7 @@
   end: 48.7154648527
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.889969
   - lab: l
     dur: 0.1
   - lab: a
@@ -817,7 +817,7 @@
   end: 58.0963265307
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.874969
   - lab: s
     dur: 0.145
   - lab: '@'
@@ -967,7 +967,7 @@
   end: 67.6165079366
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.329969
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -1121,7 +1121,7 @@
   end: 77.4153287983
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.124969
   - lab: a
     dur: 0.1
   - lab: p
@@ -1264,10 +1264,10 @@
   text: chaque fois que c'est possible, il vaut mieux former un ancien pour bénéficier de sa culture, résume le p d g .
   date: 2013-06-28T20:44:42Z
   start: 77.4153287983
-  end: 87.2141496600
+  end: 87.21414966
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.859969
   - lab: S
     dur: 0.105
   - lab: a
@@ -1415,11 +1415,11 @@
 - prompt: text_0010
   text: aux états-unis, les progrès de la technologie ont profondément modifié les comportements du téléspectateur .
   date: 2013-06-28T20:44:44Z
-  start: 87.2141496600
+  start: 87.21414966
   end: 96.8272108845
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.079969
   - lab: o
     dur: 0.08
   - lab: e
@@ -1570,10 +1570,10 @@
   text: c'est une décision, a t'il dit dimanche soir, qui est un témoignage d'humanité et de solidarité européenne .
   date: 2013-06-28T20:44:44Z
   start: 96.8272108845
-  end: 106.4402721090
+  end: 106.440272109
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.784969
   - lab: k
     dur: 0.03
   - lab: s
@@ -1719,11 +1719,11 @@
 - prompt: text_0012
   text: il s'agit d'infléchir des pratiques de gestion du personnel qui aboutissent à des drames sociaux et humains .
   date: 2013-06-28T20:44:44Z
-  start: 106.4402721090
+  start: 106.440272109
   end: 116.0533333335
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.149969
   - lab: i
     dur: 0.075
   - lab: l
@@ -1859,7 +1859,7 @@
   end: 125.9450340138
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.654969
   - lab: n
     dur: 0.15
   - lab: '0'
@@ -1993,7 +1993,7 @@
   end: 135.6045351476
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.589969
   - lab: d
     dur: 0.185
   - lab: k
@@ -2133,7 +2133,7 @@
   end: 145.2175963721
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.829969
   - lab: k
     dur: 0.015
   - lab: o~
@@ -2297,7 +2297,7 @@
   end: 154.6913378687
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.044969
   - lab: l
     dur: 0.095
   - lab: '0'
@@ -2443,7 +2443,7 @@
   end: 164.2115192746
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.779969
   - lab: m
     dur: 0.09
   - lab: a
@@ -2597,7 +2597,7 @@
   end: 174.1032199549
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.954969
   - lab: s
     dur: 0.18
   - lab: i
@@ -2745,7 +2745,7 @@
   end: 184.1342403631
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.904969
   - lab: t
     dur: 0.03
   - lab: u
@@ -2909,7 +2909,7 @@
   end: 193.5151020411
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.064969
   - lab: i
     dur: 0.085
   - lab: m
@@ -3049,7 +3049,7 @@
   end: 202.1529251704
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.134969
   - lab: m
     dur: 0.06
   - lab: '@'
@@ -3195,7 +3195,7 @@
   end: 211.9053061228
   segments:
   - lab: _
-    dur: 0.55
+    dur: 1.084969
   - lab: s
     dur: 0.13
   - lab: '0'
@@ -3341,7 +3341,7 @@
   end: 221.3790476194
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.919969
   - lab: i
     dur: 0.105
   - lab: l
@@ -3489,7 +3489,7 @@
   end: 231.0385487532
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754969
   - lab: m
     dur: 0.135
   - lab: a
@@ -3645,7 +3645,7 @@
   end: 240.8373696149
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.024969
   - lab: e~
     dur: 0.105
   - lab: t
@@ -3791,7 +3791,7 @@
   end: 250.4968707487
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.324969
   - lab: d
     dur: 0.11
   - lab: '@'
@@ -3929,7 +3929,7 @@
   end: 259.5990929709
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.739969
   - lab: s
     dur: 0.15
   - lab: '@'
@@ -4051,7 +4051,7 @@
   end: 269.1192743768
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.164969
   - lab: l
     dur: 0.075
   - lab: w
@@ -4197,7 +4197,7 @@
   end: 278.9180952385
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.659969
   - lab: y
     dur: 0.14
   - lab: o
@@ -4333,7 +4333,7 @@
   end: 288.4382766444
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.694969
   - lab: p
     dur: 0.02
   - lab: a
@@ -4469,7 +4469,7 @@
   end: 297.9584580503
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.734969
   - lab: e
     dur: 0.095
   - lab: b
@@ -4621,7 +4621,7 @@
   end: 307.8965986399
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.854969
   - lab: m
     dur: 0.015
   - lab: E
@@ -4763,7 +4763,7 @@
   end: 317.6489795923
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.909969
   - lab: f
     dur: 0.085
   - lab: E
@@ -4895,7 +4895,7 @@
   end: 326.4725623587
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.914969
   - lab: w
     dur: 0.09
   - lab: a
@@ -5037,7 +5037,7 @@
   end: 335.9927437646
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.759969
   - lab: l
     dur: 0.065
   - lab: '@'
@@ -5189,7 +5189,7 @@
   end: 345.0485260775
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.899969
   - lab: a
     dur: 0.145
   - lab: p
@@ -5319,7 +5319,7 @@
   end: 354.4293877555
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.094969
   - lab: n
     dur: 0.1
   - lab: u
@@ -5453,7 +5453,7 @@
   end: 363.6709297056
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.754969
   - lab: d
     dur: 0.1
   - lab: a~
@@ -5589,7 +5589,7 @@
   end: 373.1446712022
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.839969
   - lab: y
     dur: 0.105
   - lab: k
@@ -5741,7 +5741,7 @@
   end: 382.6184126988
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.839969
   - lab: o
     dur: 0.085
   - lab: m
@@ -5885,7 +5885,7 @@
   end: 391.3955555559
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.619969
   - lab: m
     dur: 0.09
   - lab: E
@@ -6016,10 +6016,10 @@
   text: les hôtels de grosier, piscines vides et chaises longues en lambeaux, n'a été pas que mirage .
   date: 2013-06-28T20:44:48Z
   start: 391.3955555559
-  end: 400.1726984130
+  end: 400.172698413
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754969
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -6127,11 +6127,11 @@
 - prompt: text_0043
   text: dix-neuf des vingt députés des frères musulmans ont accordé leur confiance au cabinet formé le six décembre .
   date: 2013-06-28T20:44:48Z
-  start: 400.1726984130
+  start: 400.172698413
   end: 409.7857596375
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.674969
   - lab: d
     dur: 0.13
   - lab: i
@@ -6279,7 +6279,7 @@
   end: 419.7239002271
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.604969
   - lab: v
     dur: 0.155
   - lab: u
@@ -6407,7 +6407,7 @@
   end: 428.9654421772
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.679969
   - lab: a~
     dur: 0.16
   - lab: a~
@@ -6531,7 +6531,7 @@
   end: 438.4391836738
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.984969
   - lab: l
     dur: 0.09
   - lab: a~
@@ -6649,7 +6649,7 @@
   end: 446.8448072566
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.794969
   - lab: l
     dur: 0.075
   - lab: a
@@ -6779,7 +6779,7 @@
   end: 456.0863492067
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.669969
   - lab: s
     dur: 0.11
   - lab: E
@@ -6909,7 +6909,7 @@
   end: 465.8851700684
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.599969
   - lab: l
     dur: 0.08
   - lab: '@'
@@ -7039,7 +7039,7 @@
   end: 475.2195918371
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.849969
   - lab: i
     dur: 0.13
   - lab: e
@@ -7169,7 +7169,7 @@
   end: 484.4611337872
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.879969
   - lab: 9~
     dur: 0.125
   - lab: p
@@ -7307,7 +7307,7 @@
   end: 493.0060770979
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.159969
   - lab: i
     dur: 0.095
   - lab: l
@@ -7421,7 +7421,7 @@
   end: 501.6903401364
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.634969
   - lab: m
     dur: 0.055
   - lab: E
@@ -7539,7 +7539,7 @@
   end: 509.6315646262
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.734969
   - lab: k
     dur: 0.04
   - lab: a~
@@ -7649,7 +7649,7 @@
   end: 519.1517460321
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.569969
   - lab: d
     dur: 0.095
   - lab: a~
@@ -7777,7 +7777,7 @@
   end: 528.7648072566
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.819969
   - lab: i
     dur: 0.135
   - lab: l
@@ -7914,10 +7914,10 @@
   text: en plus, cette peinture ne recèle aucune valeur esthétique et elle est d'un mauvais goût absolu .
   date: 2013-06-28T20:44:50Z
   start: 528.7648072566
-  end: 537.5883900230
+  end: 537.588390023
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.664969
   - lab: a~
     dur: 0.13
   - lab: p
@@ -8037,11 +8037,11 @@
 - prompt: text_0058
   text: le mascaret est une grande vague qui se forme parfois à l'embouchure d'un grand fleuve .
   date: 2013-06-28T20:44:50Z
-  start: 537.5883900230
-  end: 545.7153741500
+  start: 537.588390023
+  end: 545.71537415
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.779969
   - lab: l
     dur: 0.09
   - lab: '@'
@@ -8153,11 +8153,11 @@
 - prompt: text_0059
   text: il fut engagé à l'agence radio concurrente, malheureuse et vie réduite à néant de l'agence havas .
   date: 2013-06-28T20:44:50Z
-  start: 545.7153741500
-  end: 554.6318367350
+  start: 545.71537415
+  end: 554.631836735
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.779969
   - lab: i
     dur: 0.105
   - lab: f
@@ -8279,11 +8279,11 @@
 - prompt: text_0060
   text: mais ils n'en ont pas moins enregistré un recul sensible qu'ils n'ont pu attribuer qu'à la grogne syndicale .
   date: 2013-06-28T20:44:50Z
-  start: 554.6318367350
+  start: 554.631836735
   end: 564.2448979595
   segments:
   - lab: _
-    dur: 0.695
+    dur: 0.799969
   - lab: m
     dur: 0.05
   - lab: E
@@ -8419,7 +8419,7 @@
   end: 573.0220408166
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.634969
   - lab: i
     dur: 0.115
   - lab: l
@@ -8549,7 +8549,7 @@
   end: 581.7063038551
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.744969
   - lab: o
     dur: 0.125
   - lab: k
@@ -8681,7 +8681,7 @@
   end: 591.6444444447
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.799969
   - lab: i
     dur: 0.115
   - lab: i
@@ -8817,7 +8817,7 @@
   end: 601.3968253971
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754969
   - lab: m
     dur: 0.085
   - lab: E
@@ -8969,7 +8969,7 @@
   end: 611.1492063495
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.654969
   - lab: m
     dur: 0.07
   - lab: E
@@ -9097,7 +9097,7 @@
   end: 620.0656689345
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.129969
   - lab: l
     dur: 0.075
   - lab: a
@@ -9229,7 +9229,7 @@
   end: 629.8644897962
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.599969
   - lab: i
     dur: 0.12
   - lab: i
@@ -9351,7 +9351,7 @@
   end: 639.7561904765
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.619969
   - lab: '0'
     dur: 0.105
   - lab: R
@@ -9499,7 +9499,7 @@
   end: 648.5333333336
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.769969
   - lab: l
     dur: 0.05
   - lab: a
@@ -9637,7 +9637,7 @@
   end: 658.0535147395
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.149969
   - lab: a
     dur: 0.14
   - lab: t
@@ -9769,7 +9769,7 @@
   end: 665.9947392293
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.959969
   - lab: y
     dur: 0.08
   - lab: n
@@ -9871,7 +9871,7 @@
   end: 674.8183219957
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.904969
   - lab: p
     dur: 0.035
   - lab: u
@@ -10011,7 +10011,7 @@
   end: 684.5707029481
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.044969
   - lab: n
     dur: 0.12
   - lab: E
@@ -10160,10 +10160,10 @@
   text: derrière lui, les musiciens sont en uniforme costumes gris moiré, chemise blanche et cravate noire .
   date: 2013-06-28T20:44:52Z
   start: 684.5707029481
-  end: 693.6264852610
+  end: 693.626485261
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.459969
   - lab: d
     dur: 0.08
   - lab: '@'
@@ -10299,11 +10299,11 @@
 - prompt: text_0075
   text: d'abord les rescapés qui, en changeant de case, cèdent un fauteuil pour un strapontin .
   date: 2013-06-28T20:44:52Z
-  start: 693.6264852610
-  end: 701.7534693880
+  start: 693.626485261
+  end: 701.753469388
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.649969
   - lab: d
     dur: 0.115
   - lab: a
@@ -10407,11 +10407,11 @@
 - prompt: text_0076
   text: je n'abandonnerai nullement mon goût pour l'idéal, je l'ai plus vif que jamais je l'aurai toujours .
   date: 2013-06-28T20:44:52Z
-  start: 701.7534693880
+  start: 701.753469388
   end: 710.8092517009
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.254969
   - lab: Z
     dur: 0.14
   - lab: '@'
@@ -10541,7 +10541,7 @@
   end: 720.0043537417
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.829969
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -10667,7 +10667,7 @@
   end: 728.4099773245
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.859969
   - lab: i
     dur: 0.085
   - lab: l
@@ -10789,7 +10789,7 @@
   end: 737.7443990932
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.709969
   - lab: a~
     dur: 0.13
   - lab: d
@@ -10915,7 +10915,7 @@
   end: 746.4286621317
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.834969
   - lab: l
     dur: 0.09
   - lab: '@'
@@ -11037,7 +11037,7 @@
   end: 754.5092063494
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.814969
   - lab: i
     dur: 0.11
   - lab: l
@@ -11137,7 +11137,7 @@
   end: 764.1687074832
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.459969
   - lab: l
     dur: 0.065
   - lab: '@'
@@ -11273,7 +11273,7 @@
   end: 773.5495691612
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.669969
   - lab: s
     dur: 0.12
   - lab: E
@@ -11409,7 +11409,7 @@
   end: 782.6517913834
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.764969
   - lab: i
     dur: 0.11
   - lab: l
@@ -11535,7 +11535,7 @@
   end: 791.7075736963
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.884969
   - lab: n
     dur: 0.095
   - lab: u
@@ -11651,7 +11651,7 @@
   end: 801.2277551022
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.919969
   - lab: l
     dur: 0.085
   - lab: '@'
@@ -11795,7 +11795,7 @@
   end: 809.8655782315
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.674969
   - lab: 9~
     dur: 0.125
   - lab: s
@@ -11918,10 +11918,10 @@
   text: leur nombre a doublé en quatre ans sans que la reprise de l'emploi ait eu une quelconque influence positive .
   date: 2013-06-28T20:44:54Z
   start: 809.8655782315
-  end: 819.4786394560
+  end: 819.478639456
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.999969
   - lab: l
     dur: 0.095
   - lab: '9'
@@ -12055,11 +12055,11 @@
 - prompt: text_0089
   text: la venue au monde de son petit frère a fait naître, chez cette petite fille, une sorte de sentiment maternel .
   date: 2013-06-28T20:44:54Z
-  start: 819.4786394560
+  start: 819.478639456
   end: 829.2310204084
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.179969
   - lab: l
     dur: 0.09
   - lab: a
@@ -12205,7 +12205,7 @@
   end: 838.4261224492
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.909969
   - lab: o
     dur: 0.105
   - lab: Z
@@ -12325,7 +12325,7 @@
   end: 847.5283446714
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.854969
   - lab: i
     dur: 0.095
   - lab: i
@@ -12457,7 +12457,7 @@
   end: 856.0268480728
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.369969
   - lab: l
     dur: 0.08
   - lab: a
@@ -12589,7 +12589,7 @@
   end: 864.9433106578
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.254969
   - lab: l
     dur: 0.04
   - lab: a
@@ -12713,7 +12713,7 @@
   end: 873.4418140592
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.934969
   - lab: t
     dur: 0.055
   - lab: '@'
@@ -12825,7 +12825,7 @@
   end: 882.8226757372
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.129969
   - lab: i
     dur: 0.09
   - lab: l
@@ -12971,7 +12971,7 @@
   end: 891.5998185943
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.999969
   - lab: o
     dur: 0.09
   - lab: t
@@ -13089,7 +13089,7 @@
   end: 900.8413605444
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.709969
   - lab: p
     dur: 0.015
   - lab: e
@@ -13209,7 +13209,7 @@
   end: 909.2005442179
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.834969
   - lab: n
     dur: 0.11
   - lab: '0'
@@ -13327,7 +13327,7 @@
   end: 916.3058503403
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.669969
   - lab: p
     dur: 0.035
   - lab: u
@@ -13429,7 +13429,7 @@
   end: 926.0582312927
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.854969
   - lab: i
     dur: 0.05
   - lab: i
@@ -13569,7 +13569,7 @@
   end: 936.5072108845
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.634979
   - lab: k
     dur: 0.015
   - lab: '0'
@@ -13713,7 +13713,7 @@
   end: 946.0738321997
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.749979
   - lab: v
     dur: 0.1
   - lab: '9'
@@ -13849,7 +13849,7 @@
   end: 953.2720181407
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.799979
   - lab: o~
     dur: 0.165
   - lab: u
@@ -13937,7 +13937,7 @@
   end: 963.4887981861
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.609979
   - lab: l
     dur: 0.125
   - lab: '@'
@@ -14073,7 +14073,7 @@
   end: 973.8913378686
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.774979
   - lab: l
     dur: 0.06
   - lab: e
@@ -14219,7 +14219,7 @@
   end: 984.6653968255
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.239979
   - lab: i
     dur: 0.12
   - lab: a
@@ -14365,7 +14365,7 @@
   end: 993.9069387756
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.799979
   - lab: l
     dur: 0.09
   - lab: e
@@ -14467,7 +14467,7 @@
   end: 1002.3125623584
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.689979
   - lab: l
     dur: 0.075
   - lab: '@'
@@ -14567,7 +14567,7 @@
   end: 1010.9968253969
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.874979
   - lab: p
     dur: 0.015
   - lab: u
@@ -14673,7 +14673,7 @@
   end: 1021.0742857144
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.324979
   - lab: a
     dur: 0.09
   - lab: m
@@ -14815,7 +14815,7 @@
   end: 1031.2910657598
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.899979
   - lab: l
     dur: 0.095
   - lab: a
@@ -14955,7 +14955,7 @@
   end: 1041.2292063494
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.784979
   - lab: b
     dur: 0.125
   - lab: o
@@ -15073,7 +15073,7 @@
   end: 1050.5636281181
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.944979
   - lab: k
     dur: 0.02
   - lab: '0'
@@ -15203,7 +15203,7 @@
   end: 1060.4088888891
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.059979
   - lab: 9~
     dur: 0.09
   - lab: b
@@ -15335,7 +15335,7 @@
   end: 1069.9755102043
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.864979
   - lab: a~
     dur: 0.11
   - lab: f
@@ -15457,7 +15457,7 @@
   end: 1079.2170521544
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.924979
   - lab: t
     dur: 0.025
   - lab: o
@@ -15601,7 +15601,7 @@
   end: 1088.3192743766
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.749958
   - lab: o
     dur: 0.075
   - lab: f
@@ -15715,7 +15715,7 @@
   end: 1098.2574149662
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.184979
   - lab: Z
     dur: 0.145
   - lab: E
@@ -15843,7 +15843,7 @@
   end: 1108.1955555558
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.154979
   - lab: a
     dur: 0.095
   - lab: l
@@ -15975,7 +15975,7 @@
   end: 1116.8798185943
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.869979
   - lab: i
     dur: 0.085
   - lab: l
@@ -16087,7 +16087,7 @@
   end: 1126.4464399095
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.174979
   - lab: p
     dur: 0.105
   - lab: l
@@ -16215,7 +16215,7 @@
   end: 1135.8273015875
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.679979
   - lab: l
     dur: 0.09
   - lab: '@'
@@ -16343,7 +16343,7 @@
   end: 1143.7685260773
   segments:
   - lab: _
-    dur: 0.69
+    dur: 1.004979
   - lab: n
     dur: 0.165
   - lab: u
@@ -16433,7 +16433,7 @@
   end: 1153.9853061227
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.849979
   - lab: o
     dur: 0.145
   - lab: t
@@ -16562,10 +16562,10 @@
   text: le principal suspect, âgé de dix-huit ans, aurait fabriqué et jeté les deux bombes .
   date: 2013-06-28T20:44:58Z
   start: 1153.9853061227
-  end: 1162.6231292520
+  end: 1162.623129252
   segments:
   - lab: _
-    dur: 0.695
+    dur: 0.519979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -16673,11 +16673,11 @@
 - prompt: text_0126
   text: puisque cette pièce pèse dix grammes, cent pièces semblables pèsent un kilo .
   date: 2013-06-28T20:44:58Z
-  start: 1162.6231292520
+  start: 1162.623129252
   end: 1170.7036734697
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.624979
   - lab: p
     dur: 0.015
   - lab: H
@@ -16777,7 +16777,7 @@
   end: 1180.0845351477
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.729979
   - lab: l
     dur: 0.075
   - lab: e
@@ -16893,7 +16893,7 @@
   end: 1190.0226757373
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.844979
   - lab: a
     dur: 0.02
   - lab: R
@@ -17034,10 +17034,10 @@
   text: la mode de l'été nonante pourrait bien être un gigantesque poème dédié à la nature .
   date: 2013-06-28T20:44:58Z
   start: 1190.0226757373
-  end: 1198.5676190480
+  end: 1198.567619048
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.889979
   - lab: l
     dur: 0.105
   - lab: a
@@ -17151,11 +17151,11 @@
 - prompt: text_0130
   text: elles utilisent une anode en magnésium et une cathode en cuivre, l'eau de mer servant d'électrolyte .
   date: 2013-06-28T20:44:58Z
-  start: 1198.5676190480
+  start: 1198.567619048
   end: 1208.5057596376
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.009979
   - lab: E
     dur: 0.1
   - lab: l
@@ -17291,7 +17291,7 @@
   end: 1218.9547392294
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.844979
   - lab: l
     dur: 0.035
   - lab: a
@@ -17437,7 +17437,7 @@
   end: 1229.1715192748
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.884979
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -17579,7 +17579,7 @@
   end: 1239.7133786852
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.114979
   - lab: d
     dur: 0.105
   - lab: a~
@@ -17717,7 +17717,7 @@
   end: 1249.9301587306
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.834979
   - lab: n
     dur: 0.06
   - lab: '@'
@@ -17838,10 +17838,10 @@
   text: les soubresauts internes n'empêchent pas l'europe d'envahir les débats de politique intérieure française .
   date: 2013-06-28T20:44:58Z
   start: 1249.9301587306
-  end: 1260.1469387760
+  end: 1260.146938776
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.809979
   - lab: l
     dur: 0.07
   - lab: e
@@ -17971,11 +17971,11 @@
 - prompt: text_0136
   text: les banquiers français ont un faible pour leurs homologues transalpins .
   date: 2013-06-28T20:44:58Z
-  start: 1260.1469387760
-  end: 1267.8095238100
+  start: 1260.146938776
+  end: 1267.80952381
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.024979
   - lab: l
     dur: 0.105
   - lab: e
@@ -18059,11 +18059,11 @@
 - prompt: text_0137
   text: bisque de homard foie gras et dinde aux cèpes et marrons doivent donner l'illusion du festin .
   date: 2013-06-28T20:44:58Z
-  start: 1267.8095238100
+  start: 1267.80952381
   end: 1277.1439455787
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.734979
   - lab: b
     dur: 0.135
   - lab: i
@@ -18179,7 +18179,7 @@
   end: 1287.5464852612
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.834979
   - lab: 9~
     dur: 0.135
   - lab: b
@@ -18313,7 +18313,7 @@
   end: 1296.2307482997
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.734979
   - lab: l
     dur: 0.045
   - lab: e
@@ -18417,7 +18417,7 @@
   end: 1305.3329705219
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.944979
   - lab: '0'
     dur: 0.14
   - lab: l
@@ -18529,7 +18529,7 @@
   end: 1314.8995918371
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.709979
   - lab: d
     dur: 0.035
   - lab: a~
@@ -18659,7 +18659,7 @@
   end: 1322.9801360548
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.499979
   - lab: E
     dur: 0.12
   - lab: y
@@ -18767,7 +18767,7 @@
   end: 1331.6179591841
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.019979
   - lab: Z
     dur: 0.155
   - lab: e
@@ -18877,7 +18877,7 @@
   end: 1339.6520634925
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.734979
   - lab: d
     dur: 0.075
   - lab: a~
@@ -18985,7 +18985,7 @@
   end: 1349.4973242635
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.709979
   - lab: k
     dur: 0.055
   - lab: E
@@ -19123,7 +19123,7 @@
   end: 1360.0391836739
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.089979
   - lab: i
     dur: 0.065
   - lab: l
@@ -19249,7 +19249,7 @@
   end: 1369.3736054426
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.939979
   - lab: o~
     dur: 0.085
   - lab: p
@@ -19377,7 +19377,7 @@
   end: 1377.0826303859
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.149979
   - lab: y
     dur: 0.075
   - lab: n
@@ -19471,7 +19471,7 @@
   end: 1386.6956916104
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.054979
   - lab: m
     dur: 0.125
   - lab: E
@@ -19589,7 +19589,7 @@
   end: 1397.2839909301
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.809979
   - lab: l
     dur: 0.14
   - lab: '@'
@@ -19747,7 +19747,7 @@
   end: 1407.7329705219
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.634979
   - lab: s
     dur: 0.115
   - lab: E
@@ -19883,7 +19883,7 @@
   end: 1417.6711111115
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.794979
   - lab: i
     dur: 0.165
   - lab: n
@@ -20009,7 +20009,7 @@
   end: 1427.1448526081
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.809979
   - lab: E
     dur: 0.09
   - lab: l
@@ -20121,7 +20121,7 @@
   end: 1435.0860770979
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754958
   - lab: l
     dur: 0.08
   - lab: e
@@ -20201,7 +20201,7 @@
   end: 1444.8384580503
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.804979
   - lab: p
     dur: 0.035
   - lab: R
@@ -20335,7 +20335,7 @@
   end: 1454.5443990934
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.744979
   - lab: g
     dur: 0.045
   - lab: R
@@ -20483,7 +20483,7 @@
   end: 1464.5289795923
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.819979
   - lab: l
     dur: 0.09
   - lab: '@'
@@ -20609,7 +20609,7 @@
   end: 1474.0027210889
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.694979
   - lab: Z
     dur: 0.15
   - lab: o
@@ -20721,7 +20721,7 @@
   end: 1483.4764625855
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.649979
   - lab: u
     dur: 0.12
   - lab: l
@@ -20841,7 +20841,7 @@
   end: 1492.0214058962
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.694979
   - lab: l
     dur: 0.07
   - lab: a
@@ -20969,7 +20969,7 @@
   end: 1501.1700680277
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.259979
   - lab: i
     dur: 0.14
   - lab: v
@@ -21087,7 +21087,7 @@
   end: 1511.5726077102
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.794979
   - lab: i
     dur: 0.1
   - lab: i
@@ -21219,7 +21219,7 @@
   end: 1520.1175510209
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.984979
   - lab: l
     dur: 0.055
   - lab: e
@@ -21325,7 +21325,7 @@
   end: 1529.2662131524
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.994979
   - lab: '0'
     dur: 0.125
   - lab: d
@@ -21445,7 +21445,7 @@
   end: 1538.3684353746
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.814979
   - lab: '0'
     dur: 0.03
   - lab: R
@@ -21561,7 +21561,7 @@
   end: 1547.5170975061
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.749958
   - lab: y
     dur: 0.12
   - lab: p
@@ -21683,7 +21683,7 @@
   end: 1557.9660770979
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.674979
   - lab: m
     dur: 0.1
   - lab: i
@@ -21835,7 +21835,7 @@
   end: 1568.3686167804
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.944979
   - lab: E
     dur: 0.105
   - lab: l
@@ -21953,7 +21953,7 @@
   end: 1577.4708390026
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.829979
   - lab: l
     dur: 0.095
   - lab: a
@@ -22081,7 +22081,7 @@
   end: 1587.0839002271
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.844979
   - lab: l
     dur: 0.14
   - lab: '@'
@@ -22205,7 +22205,7 @@
   end: 1596.3254421772
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.594979
   - lab: a
     dur: 0.09
   - lab: l
@@ -22325,7 +22325,7 @@
   end: 1606.4957823133
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.729979
   - lab: s
     dur: 0.065
   - lab: y
@@ -22449,7 +22449,7 @@
   end: 1615.6444444448
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.834979
   - lab: o~
     dur: 0.1
   - lab: f
@@ -22585,7 +22585,7 @@
   end: 1626.0469841273
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.969979
   - lab: l
     dur: 0.11
   - lab: '@'
@@ -22723,7 +22723,7 @@
   end: 1633.2451700683
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.614979
   - lab: p
     dur: 0.045
   - lab: u
@@ -22809,7 +22809,7 @@
   end: 1641.8829931976
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.744979
   - lab: s
     dur: 0.17
   - lab: '0'
@@ -22915,7 +22915,7 @@
   end: 1651.0316553291
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.404979
   - lab: i
     dur: 0.14
   - lab: l
@@ -23033,7 +23033,7 @@
   end: 1661.2484353745
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.879979
   - lab: i
     dur: 0.04
   - lab: l
@@ -23171,7 +23171,7 @@
   end: 1669.0967800457
   segments:
   - lab: _
-    dur: 0.65
+    dur: 1.024979
   - lab: k
     dur: 0.06
   - lab: a
@@ -23265,7 +23265,7 @@
   end: 1677.9668027214
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.659979
   - lab: s
     dur: 0.13
   - lab: '@'
@@ -23396,10 +23396,10 @@
   text: résultat, une pléthore de résidences secondaires, le plus souvent entassées en de tristes immeubles .
   date: 2013-06-28T20:45:02Z
   start: 1677.9668027214
-  end: 1687.9049433110
+  end: 1687.904943311
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.649979
   - lab: R
     dur: 0.05
   - lab: e
@@ -23531,11 +23531,11 @@
 - prompt: text_0182
   text: s'ils acceptent un sérieux effort personnel, ils deviennent ingénieurs en quatre ou cinq ans .
   date: 2013-06-28T20:45:02Z
-  start: 1687.9049433110
-  end: 1697.2858049890
+  start: 1687.904943311
+  end: 1697.285804989
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.734979
   - lab: i
     dur: 0.1
   - lab: l
@@ -23647,11 +23647,11 @@
 - prompt: text_0183
   text: avec les réservoirs souterrains, seul peut brûler le jet de gaz qui jaillit en surface .
   date: 2013-06-28T20:45:04Z
-  start: 1697.2858049890
-  end: 1706.2022675740
+  start: 1697.285804989
+  end: 1706.202267574
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.764979
   - lab: a
     dur: 0.09
   - lab: v
@@ -23763,11 +23763,11 @@
 - prompt: text_0184
   text: la tétine d'un biberon est son bout en caoutchouc qui sert à téter .
   date: 2013-06-28T20:45:04Z
-  start: 1706.2022675740
+  start: 1706.202267574
   end: 1713.5397732429
   segments:
   - lab: _
-    dur: 0.525
+    dur: 0.029979
   - lab: l
     dur: 0.095
   - lab: a
@@ -23855,7 +23855,7 @@
   end: 1721.4809977327
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.829979
   - lab: t
     dur: 0.025
   - lab: o~
@@ -23945,7 +23945,7 @@
   end: 1731.9299773245
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.744979
   - lab: d
     dur: 0.065
   - lab: a~
@@ -24073,7 +24073,7 @@
   end: 1742.8433560093
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.679979
   - lab: t
     dur: 0.065
   - lab: w
@@ -24197,7 +24197,7 @@
   end: 1753.2923356011
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.204979
   - lab: '0'
     dur: 0.09
   - lab: n
@@ -24331,7 +24331,7 @@
   end: 1763.3697959186
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.719979
   - lab: s
     dur: 0.12
   - lab: E
@@ -24461,7 +24461,7 @@
   end: 1772.9828571431
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.759979
   - lab: p
     dur: 0.025
   - lab: a
@@ -24597,7 +24597,7 @@
   end: 1782.4565986397
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.709979
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -24719,7 +24719,7 @@
   end: 1792.9984580501
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.644979
   - lab: o
     dur: 0.145
   - lab: t
@@ -24861,7 +24861,7 @@
   end: 1802.1471201816
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.874979
   - lab: a~
     dur: 0.11
   - lab: f
@@ -24985,7 +24985,7 @@
   end: 1811.9923809526
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.714979
   - lab: a
     dur: 0.075
   - lab: g
@@ -25109,7 +25109,7 @@
   end: 1819.7942857145
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.354979
   - lab: d
     dur: 0.04
   - lab: a~
@@ -25191,7 +25191,7 @@
   end: 1829.2680272111
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.564979
   - lab: t
     dur: 0.055
   - lab: u
@@ -25309,7 +25309,7 @@
   end: 1839.4848072565
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.799979
   - lab: l
     dur: 0.075
   - lab: '@'
@@ -25448,10 +25448,10 @@
   text: du jour au lendemain, plus personne n'osa invoquer le führer ni se réclamer du credo nazi .
   date: 2013-06-28T20:45:04Z
   start: 1839.4848072565
-  end: 1848.6334693880
+  end: 1848.633469388
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.549979
   - lab: d
     dur: 0.055
   - lab: y
@@ -25577,11 +25577,11 @@
 - prompt: text_0199
   text: accessoires devenus inutiles, les casques antibruit pendent au bras des techniciens soulagés .
   date: 2013-06-28T20:45:04Z
-  start: 1848.6334693880
-  end: 1858.0143310660
+  start: 1848.633469388
+  end: 1858.014331066
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.684979
   - lab: a
     dur: 0.095
   - lab: k
@@ -25703,11 +25703,11 @@
 - prompt: text_0200
   text: à la maison au foyer ou bien au port à découvrir même si cela ne doit durer que quelques heures .
   date: 2013-06-28T20:45:04Z
-  start: 1858.0143310660
+  start: 1858.014331066
   end: 1867.5809523812
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.854979
   - lab: a
     dur: 0.08
   - lab: l
@@ -25831,7 +25831,7 @@
   end: 1877.4262131522
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.714979
   - lab: i
     dur: 0.05
   - lab: l
@@ -25973,7 +25973,7 @@
   end: 1886.2033560093
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.669979
   - lab: Z
     dur: 0.15
   - lab: '@'
@@ -26083,7 +26083,7 @@
   end: 1896.7452154197
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.864979
   - lab: o
     dur: 0.125
   - lab: k
@@ -26237,7 +26237,7 @@
   end: 1905.2437188211
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.629979
   - lab: l
     dur: 0.065
   - lab: '@'
@@ -26331,7 +26331,7 @@
   end: 1915.6926984129
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.449979
   - lab: d
     dur: 0.125
   - lab: '@'
@@ -26473,7 +26473,7 @@
   end: 1925.3057596374
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.624979
   - lab: t
     dur: 0.065
   - lab: R
@@ -26607,7 +26607,7 @@
   end: 1933.8042630388
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.834979
   - lab: a~
     dur: 0.11
   - lab: m
@@ -26705,7 +26705,7 @@
   end: 1944.5783219957
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.574979
   - lab: s
     dur: 0.135
   - lab: a~
@@ -26840,10 +26840,10 @@
   text: je voudrais atteindre un but qui me semble normal pouvoir exposer partout en europe .
   date: 2013-06-28T20:45:06Z
   start: 1944.5783219957
-  end: 1953.2161451250
+  end: 1953.216145125
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.689979
   - lab: Z
     dur: 0.12
   - lab: '@'
@@ -26967,11 +26967,11 @@
 - prompt: text_0210
   text: la quintessence du bon genre à la française en matière d'assurance tient en effet à deux principes .
   date: 2013-06-28T20:45:06Z
-  start: 1953.2161451250
+  start: 1953.216145125
   end: 1962.9685260774
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.729958
   - lab: l
     dur: 0.09
   - lab: a
@@ -27091,7 +27091,7 @@
   end: 1973.1388662135
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.549979
   - lab: b
     dur: 0.095
   - lab: R
@@ -27225,7 +27225,7 @@
   end: 1982.6126077101
   segments:
   - lab: _
-    dur: 0.69
+    dur: 1.014979
   - lab: i
     dur: 0.07
   - lab: s
@@ -27335,7 +27335,7 @@
   end: 1991.9470294788
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.539979
   - lab: a~
     dur: 0.1
   - lab: f
@@ -27449,7 +27449,7 @@
   end: 1999.8882539686
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754958
   - lab: l
     dur: 0.04
   - lab: '@'
@@ -27535,7 +27535,7 @@
   end: 2007.3650793654
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.964979
   - lab: l
     dur: 0.03
   - lab: '@'
@@ -27627,7 +27627,7 @@
   end: 2016.2351020411
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.704979
   - lab: a
     dur: 0.135
   - lab: p
@@ -27735,7 +27735,7 @@
   end: 2025.1051247168
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.944979
   - lab: i
     dur: 0.125
   - lab: b
@@ -27843,7 +27843,7 @@
   end: 2034.8110657599
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.554979
   - lab: a
     dur: 0.095
   - lab: s
@@ -27965,7 +27965,7 @@
   end: 2042.2414512474
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.814979
   - lab: l
     dur: 0.045
   - lab: '@'
@@ -28049,7 +28049,7 @@
   end: 2051.6223129254
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.559979
   - lab: d
     dur: 0.11
   - lab: E
@@ -28175,7 +28175,7 @@
   end: 2061.4675736964
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.779979
   - lab: s
     dur: 0.15
   - lab: '@'
@@ -28303,7 +28303,7 @@
   end: 2071.0806349209
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.764979
   - lab: l
     dur: 0.065
   - lab: a
@@ -28427,7 +28427,7 @@
   end: 2081.7618140592
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.699979
   - lab: l
     dur: 0.065
   - lab: '@'
@@ -28579,7 +28579,7 @@
   end: 2090.8640362814
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.614979
   - lab: o
     dur: 0.1
   - lab: Z
@@ -28695,7 +28695,7 @@
   end: 2098.0622222224
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.859979
   - lab: Z
     dur: 0.145
   - lab: o
@@ -28789,7 +28789,7 @@
   end: 2106.7000453517
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.534979
   - lab: i
     dur: 0.125
   - lab: a
@@ -28905,7 +28905,7 @@
   end: 2114.5019501136
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.929979
   - lab: d
     dur: 0.16
   - lab: o~
@@ -28991,7 +28991,7 @@
   end: 2124.8116099775
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.634979
   - lab: a
     dur: 0.215
   - lab: Z
@@ -29116,10 +29116,10 @@
   text: le voyou blême, d'il y a dix ans, est trop impôt, est trop impatient pour rester fixé à la même image .
   date: 2013-06-28T20:45:08Z
   start: 2124.8116099775
-  end: 2134.8890702950
+  end: 2134.889070295
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.909979
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -29261,11 +29261,11 @@
 - prompt: text_0230
   text: l'intérêt, que l'on accuse de tous nos crimes, mérite souvent d'être loué de nos bonnes actions .
   date: 2013-06-28T20:45:08Z
-  start: 2134.8890702950
+  start: 2134.889070295
   end: 2144.5021315195
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.514979
   - lab: l
     dur: 0.1
   - lab: e~
@@ -29385,7 +29385,7 @@
   end: 2153.9758730161
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.604979
   - lab: d
     dur: 0.165
   - lab: '@'
@@ -29523,7 +29523,7 @@
   end: 2162.0564172338
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.334979
   - lab: l
     dur: 0.065
   - lab: a
@@ -29629,7 +29629,7 @@
   end: 2169.3010430841
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.624979
   - lab: t
     dur: 0.025
   - lab: y
@@ -29727,7 +29727,7 @@
   end: 2177.4744671204
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.604979
   - lab: l
     dur: 0.06
   - lab: e
@@ -29829,7 +29829,7 @@
   end: 2188.0163265308
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.379979
   - lab: d
     dur: 0.1
   - lab: y
@@ -29955,7 +29955,7 @@
   end: 2197.9544671204
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.354979
   - lab: m
     dur: 0.145
   - lab: E
@@ -30095,7 +30095,7 @@
   end: 2207.7068480728
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.619979
   - lab: b
     dur: 0.095
   - lab: u
@@ -30233,7 +30233,7 @@
   end: 2216.3911111113
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.734979
   - lab: l
     dur: 0.08
   - lab: e
@@ -30359,7 +30359,7 @@
   end: 2227.0722902496
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.739979
   - lab: y
     dur: 0.13
   - lab: Z
@@ -30492,10 +30492,10 @@
   text: on se permet quelques folies, une escapade du côté des écharpes à cinquante et un lai qu'on dirait en laine .
   date: 2013-06-28T20:45:10Z
   start: 2227.0722902496
-  end: 2237.6141496600
+  end: 2237.61414966
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.659979
   - lab: '0'
     dur: 0.09
   - lab: s
@@ -30621,11 +30621,11 @@
 - prompt: text_0241
   text: ils arboraient d'énormes défenses recourbées, dont certaines pèsent jusqu'à cent vingt cinq kilos pièce .
   date: 2013-06-28T20:45:10Z
-  start: 2237.6141496600
+  start: 2237.61414966
   end: 2247.8309297054
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.809979
   - lab: i
     dur: 0.105
   - lab: l
@@ -30753,7 +30753,7 @@
   end: 2255.9114739231
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.429958
   - lab: s
     dur: 0.14
   - lab: o~
@@ -30869,7 +30869,7 @@
   end: 2263.7598185943
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.589979
   - lab: f
     dur: 0.06
   - lab: '@'
@@ -30961,7 +30961,7 @@
   end: 2272.8620408165
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.649979
   - lab: l
     dur: 0.07
   - lab: '@'
@@ -31089,7 +31089,7 @@
   end: 2282.7073015875
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.674979
   - lab: a
     dur: 0.215
   - lab: k
@@ -31225,7 +31225,7 @@
   end: 2292.6454421771
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.754979
   - lab: l
     dur: 0.12
   - lab: a
@@ -31351,7 +31351,7 @@
   end: 2300.8188662134
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.584979
   - lab: i
     dur: 0.14
   - lab: f
@@ -31449,7 +31449,7 @@
   end: 2309.4566893427
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.489979
   - lab: 9~
     dur: 0.14
   - lab: l
@@ -31559,7 +31559,7 @@
   end: 2318.8375510207
   segments:
   - lab: _
-    dur: 0.695
+    dur: 0.449979
   - lab: u
     dur: 0.16
   - lab: H
@@ -31687,7 +31687,7 @@
   end: 2329.0078911568
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.369979
   - lab: m
     dur: 0.155
   - lab: E
@@ -31825,7 +31825,7 @@
   end: 2339.2246712022
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.794979
   - lab: p
     dur: 0.015
   - lab: E
@@ -31969,7 +31969,7 @@
   end: 2347.4909750571
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.899979
   - lab: a
     dur: 0.1
   - lab: b
@@ -32073,7 +32073,7 @@
   end: 2357.3362358281
   segments:
   - lab: _
-    dur: 0.625
+    dur: 1.039979
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -32199,7 +32199,7 @@
   end: 2368.1567346943
   segments:
   - lab: _
-    dur: 0.59
+    dur: 1.064979
   - lab: p
     dur: 0.02
   - lab: H
@@ -32345,7 +32345,7 @@
   end: 2375.7264399097
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.804979
   - lab: i
     dur: 0.12
   - lab: l
@@ -32429,7 +32429,7 @@
   end: 2384.5035827668
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.894979
   - lab: 9~
     dur: 0.145
   - lab: d
@@ -32537,7 +32537,7 @@
   end: 2393.1414058961
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.804979
   - lab: v
     dur: 0.105
   - lab: E
@@ -32633,7 +32633,7 @@
   end: 2403.5903854879
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.974979
   - lab: 9~
     dur: 0.135
   - lab: b
@@ -32781,7 +32781,7 @@
   end: 2413.4356462589
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.864979
   - lab: s
     dur: 0.12
   - lab: a
@@ -32909,7 +32909,7 @@
   end: 2421.2839909301
   segments:
   - lab: _
-    dur: 0.65
+    dur: 1.084979
   - lab: l
     dur: 0.115
   - lab: a
@@ -33001,7 +33001,7 @@
   end: 2431.7329705219
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.069979
   - lab: y
     dur: 0.025
   - lab: n
@@ -33135,7 +33135,7 @@
   end: 2441.2067120185
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.849979
   - lab: i
     dur: 0.135
   - lab: a
@@ -33251,7 +33251,7 @@
   end: 2451.5163718824
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.109979
   - lab: m
     dur: 0.125
   - lab: E
@@ -33381,7 +33381,7 @@
   end: 2460.7579138325
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.794979
   - lab: i
     dur: 0.11
   - lab: l
@@ -33497,7 +33497,7 @@
   end: 2468.3276190479
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.854979
   - lab: i
     dur: 0.145
   - lab: a
@@ -33591,7 +33591,7 @@
   end: 2476.5010430842
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.089979
   - lab: d
     dur: 0.085
   - lab: a~
@@ -33697,7 +33697,7 @@
   end: 2486.7178231296
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.639979
   - lab: l
     dur: 0.08
   - lab: a
@@ -33833,7 +33833,7 @@
   end: 2496.2844444448
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.764979
   - lab: a
     dur: 0.13
   - lab: R
@@ -33961,7 +33961,7 @@
   end: 2506.0368253972
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.864979
   - lab: i
     dur: 0.11
   - lab: n
@@ -34081,7 +34081,7 @@
   end: 2516.2071655333
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.929979
   - lab: l
     dur: 0.04
   - lab: '@'
@@ -34211,7 +34211,7 @@
   end: 2525.3558276648
   segments:
   - lab: _
-    dur: 0.545
+    dur: 0.879979
   - lab: s
     dur: 0.14
   - lab: '@'
@@ -34329,7 +34329,7 @@
   end: 2535.1082086172
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.954979
   - lab: k
     dur: 0.045
   - lab: i
@@ -34455,7 +34455,7 @@
   end: 2545.2785487533
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.694979
   - lab: n
     dur: 0.13
   - lab: E
@@ -34587,7 +34587,7 @@
   end: 2555.7275283451
   segments:
   - lab: _
-    dur: 0.515
+    dur: 0.729979
   - lab: s
     dur: 0.165
   - lab: '@'
@@ -34725,7 +34725,7 @@
   end: 2565.2941496603
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.864979
   - lab: v
     dur: 0.14
   - lab: w
@@ -34849,7 +34849,7 @@
   end: 2573.1424943315
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.109979
   - lab: l
     dur: 0.1
   - lab: 9~
@@ -34955,7 +34955,7 @@
   end: 2582.0125170072
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.504979
   - lab: m
     dur: 0.115
   - lab: a
@@ -35071,7 +35071,7 @@
   end: 2591.8577777782
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.234979
   - lab: d
     dur: 0.07
   - lab: '@'
@@ -35203,7 +35203,7 @@
   end: 2602.3996371886
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.834979
   - lab: e~
     dur: 0.115
   - lab: s
@@ -35337,7 +35337,7 @@
   end: 2611.5482993201
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.009979
   - lab: l
     dur: 0.11
   - lab: E
@@ -35471,7 +35471,7 @@
   end: 2621.7650793655
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.209979
   - lab: k
     dur: 0.015
   - lab: '0'
@@ -35607,7 +35607,7 @@
   end: 2629.8456235832
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.139979
   - lab: n
     dur: 0.14
   - lab: y
@@ -35709,7 +35709,7 @@
   end: 2640.3874829936
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.574979
   - lab: l
     dur: 0.07
   - lab: a
@@ -35857,7 +35857,7 @@
   end: 2650.8364625854
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.944979
   - lab: i
     dur: 0.15
   - lab: a
@@ -36011,7 +36011,7 @@
   end: 2659.7064852611
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.509979
   - lab: o~
     dur: 0.215
   - lab: z
@@ -36115,7 +36115,7 @@
   end: 2669.5517460321
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.644979
   - lab: m
     dur: 0.13
   - lab: E
@@ -36253,7 +36253,7 @@
   end: 2679.1183673473
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.699979
   - lab: l
     dur: 0.06
   - lab: '@'
@@ -36347,7 +36347,7 @@
   end: 2688.0348299323
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.014979
   - lab: l
     dur: 0.185
   - lab: i
@@ -36467,7 +36467,7 @@
   end: 2694.9079365083
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.794979
   - lab: i
     dur: 0.09
   - lab: l
@@ -36539,7 +36539,7 @@
   end: 2705.2175963722
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.929979
   - lab: a
     dur: 0.08
   - lab: k
@@ -36685,7 +36685,7 @@
   end: 2714.9699773246
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.709979
   - lab: a
     dur: 0.115
   - lab: p
@@ -36819,7 +36819,7 @@
   end: 2724.3508390026
   segments:
   - lab: _
-    dur: 0.69
+    dur: 1.054979
   - lab: m
     dur: 0.115
   - lab: E
@@ -36933,7 +36933,7 @@
   end: 2734.4282993201
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.799979
   - lab: i
     dur: 0.105
   - lab: f
@@ -37069,7 +37069,7 @@
   end: 2744.2735600911
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.419979
   - lab: f
     dur: 0.155
   - lab: i
@@ -37197,7 +37197,7 @@
   end: 2753.5151020412
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.609979
   - lab: m
     dur: 0.09
   - lab: E
@@ -37313,7 +37313,7 @@
   end: 2764.2891609981
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.414979
   - lab: n
     dur: 0.175
   - lab: u
@@ -37441,7 +37441,7 @@
   end: 2773.5307029482
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.719958
   - lab: d
     dur: 0.135
   - lab: '@'
@@ -37555,7 +37555,7 @@
   end: 2782.3078458053
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.689979
   - lab: s
     dur: 0.075
   - lab: y
@@ -37667,7 +37667,7 @@
   end: 2792.0137868484
   segments:
   - lab: _
-    dur: 0.555
+    dur: 0.849979
   - lab: k
     dur: 0.015
   - lab: s
@@ -37777,7 +37777,7 @@
   end: 2800.8838095241
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.624979
   - lab: y
     dur: 0.145
   - lab: n
@@ -37893,7 +37893,7 @@
   end: 2809.0572335604
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.809979
   - lab: l
     dur: 0.115
   - lab: a
@@ -37995,7 +37995,7 @@
   end: 2816.7662585037
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.064979
   - lab: '0'
     dur: 0.085
   - lab: f
@@ -38085,7 +38085,7 @@
   end: 2827.2152380955
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.614979
   - lab: '0'
     dur: 0.115
   - lab: t
@@ -38220,10 +38220,10 @@
   text: le nouveau bâtiment abritera mille douze lits et occupera mille trente euh cent trente personnes .
   date: 2013-06-28T20:45:18Z
   start: 2827.2152380955
-  end: 2836.8282993200
+  end: 2836.82829932
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.409979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -38341,11 +38341,11 @@
 - prompt: text_0305
   text: il est bon et sain, il est normal, il est même indispensable qu'il y ait une opposition et une majorité .
   date: 2013-06-28T20:45:18Z
-  start: 2836.8282993200
+  start: 2836.82829932
   end: 2847.0450793654
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.739979
   - lab: i
     dur: 0.135
   - lab: E
@@ -38493,7 +38493,7 @@
   end: 2855.3578231296
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.224979
   - lab: m
     dur: 0.125
   - lab: E
@@ -38591,7 +38591,7 @@
   end: 2863.7634467124
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.514979
   - lab: m
     dur: 0.085
   - lab: E
@@ -38693,7 +38693,7 @@
   end: 2872.0761904766
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.684979
   - lab: n
     dur: 0.105
   - lab: o
@@ -38797,7 +38797,7 @@
   end: 2880.7604535151
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.559979
   - lab: s
     dur: 0.175
   - lab: E
@@ -38902,10 +38902,10 @@
   text: au risque de contrarier les esprits chagrins, je suis convaincue, a t'elle dit, qu'un tournant positif est pris .
   date: 2013-06-28T20:45:18Z
   start: 2880.7604535151
-  end: 2891.5345124720
+  end: 2891.534512472
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.639979
   - lab: o
     dur: 0.115
   - lab: R
@@ -39041,11 +39041,11 @@
 - prompt: text_0311
   text: le cheptel de la ferme se compose de quarante vaches vingt porcs et cinq chevaux .
   date: 2013-06-28T20:45:18Z
-  start: 2891.5345124720
+  start: 2891.534512472
   end: 2899.9401360548
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.744958
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -39149,7 +39149,7 @@
   end: 2907.1383219958
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.584979
   - lab: i
     dur: 0.11
   - lab: f
@@ -39231,7 +39231,7 @@
   end: 2914.6151473926
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.899979
   - lab: k
     dur: 0.185
   - lab: e
@@ -39315,7 +39315,7 @@
   end: 2924.0888888892
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.014979
   - lab: E
     dur: 0.075
   - lab: k
@@ -39433,7 +39433,7 @@
   end: 2933.9341496602
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.009979
   - lab: i
     dur: 0.15
   - lab: n
@@ -39567,7 +39567,7 @@
   end: 2943.5007709754
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.809979
   - lab: s
     dur: 0.145
   - lab: E
@@ -39699,7 +39699,7 @@
   end: 2951.9992743768
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.029979
   - lab: n
     dur: 0.07
   - lab: u
@@ -39807,7 +39807,7 @@
   end: 2960.8692970525
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.859979
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -39909,7 +39909,7 @@
   end: 2969.9715192747
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754958
   - lab: l
     dur: 0.095
   - lab: e
@@ -40023,7 +40023,7 @@
   end: 2980.2811791386
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.849979
   - lab: a~
     dur: 0.18
   - lab: u
@@ -40153,7 +40153,7 @@
   end: 2988.5939229028
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.934979
   - lab: a~
     dur: 0.105
   - lab: f
@@ -40255,7 +40255,7 @@
   end: 2997.5103854878
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.824979
   - lab: i
     dur: 0.26
   - lab: l
@@ -40375,7 +40375,7 @@
   end: 3005.1729705218
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.434979
   - lab: b
     dur: 0.115
   - lab: o~
@@ -40461,7 +40461,7 @@
   end: 3013.9501133789
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.839979
   - lab: l
     dur: 0.09
   - lab: '@'
@@ -40561,7 +40561,7 @@
   end: 3024.2597732428
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.664979
   - lab: l
     dur: 0.08
   - lab: e
@@ -40688,10 +40688,10 @@
   text: deuxième consommateur mondial, l'u r s s est surtout l'un des plus grands gaspilleurs du monde .
   date: 2013-06-28T20:45:20Z
   start: 3024.2597732428
-  end: 3033.8263945580
+  end: 3033.826394558
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.719979
   - lab: d
     dur: 0.135
   - lab: '9'
@@ -40823,11 +40823,11 @@
 - prompt: text_0327
   text: de la réforme du code pénal, on a donc quand même parlé longuement .
   date: 2013-06-28T20:45:20Z
-  start: 3033.8263945580
+  start: 3033.826394558
   end: 3041.2567800455
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.769979
   - lab: d
     dur: 0.125
   - lab: '@'
@@ -40921,7 +40921,7 @@
   end: 3051.5664399094
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.959979
   - lab: n
     dur: 0.095
   - lab: u
@@ -41069,7 +41069,7 @@
   end: 3062.1082993198
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.119979
   - lab: i
     dur: 0.13
   - lab: k
@@ -41209,7 +41209,7 @@
   end: 3071.9535600908
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.629979
   - lab: a~
     dur: 0.145
   - lab: Z
@@ -41337,7 +41337,7 @@
   end: 3080.8700226758
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.979979
   - lab: 9~
     dur: 0.105
   - lab: f
@@ -41441,7 +41441,7 @@
   end: 3088.5790476191
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.599979
   - lab: v
     dur: 0.025
   - lab: u
@@ -41555,7 +41555,7 @@
   end: 3098.7958276645
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.094979
   - lab: d
     dur: 0.14
   - lab: E
@@ -41693,7 +41693,7 @@
   end: 3107.0621315194
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.944979
   - lab: l
     dur: 0.115
   - lab: a
@@ -41795,7 +41795,7 @@
   end: 3116.1643537416
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.609979
   - lab: '0'
     dur: 0.025
   - lab: R
@@ -41911,7 +41911,7 @@
   end: 3126.3346938777
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.864979
   - lab: n
     dur: 0.135
   - lab: u
@@ -42038,10 +42038,10 @@
   text: bientôt, c'est en fourreau fendu et souliers à brides qu'elles dansent .
   date: 2013-06-28T20:45:20Z
   start: 3126.3346938777
-  end: 3134.0437188210
+  end: 3134.043718821
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.594979
   - lab: b
     dur: 0.015
   - lab: j
@@ -42113,11 +42113,11 @@
 - prompt: text_0338
   text: un mercenaire est un soldat qu'un gouvernement étranger paie pour combattre à son profit .
   date: 2013-06-28T20:45:20Z
-  start: 3134.0437188210
+  start: 3134.043718821
   end: 3143.0530612246
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.239979
   - lab: 9~
     dur: 0.115
   - lab: m
@@ -42237,7 +42237,7 @@
   end: 3150.2512471656
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.759958
   - lab: 9~
     dur: 0.1
   - lab: E
@@ -42323,7 +42323,7 @@
   end: 3158.9355102041
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.844979
   - lab: s
     dur: 0.175
   - lab: '9'
@@ -42433,7 +42433,7 @@
   end: 3167.5733333334
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.449979
   - lab: l
     dur: 0.1
   - lab: a
@@ -42535,7 +42535,7 @@
   end: 3177.7436734695
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.434979
   - lab: g
     dur: 0.08
   - lab: R
@@ -42663,7 +42663,7 @@
   end: 3188.2855328799
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.654979
   - lab: b
     dur: 0.105
   - lab: o
@@ -42807,7 +42807,7 @@
   end: 3197.2948752835
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.774979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -42926,10 +42926,10 @@
   text: peu à peu, ils l'ont conquis et transformé tout en imposant leurs goûts et leurs artistes .
   date: 2013-06-28T20:45:22Z
   start: 3197.2948752835
-  end: 3206.4435374150
+  end: 3206.443537415
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.684979
   - lab: p
     dur: 0.035
   - lab: '9'
@@ -43031,11 +43031,11 @@
 - prompt: text_0346
   text: comprendre la beauté, c'est parvenir à faire coïncider son rythme propre avec celui de la nature .
   date: 2013-06-28T20:45:22Z
-  start: 3206.4435374150
+  start: 3206.443537415
   end: 3216.1494784581
   segments:
   - lab: _
-    dur: 0.64
+    dur: 1.974979
   - lab: k
     dur: 0.015
   - lab: o~
@@ -43175,7 +43175,7 @@
   end: 3225.1588208617
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.539979
   - lab: i
     dur: 0.105
   - lab: f
@@ -43285,7 +43285,7 @@
   end: 3235.5613605442
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.944979
   - lab: E
     dur: 0.11
   - lab: l
@@ -43425,7 +43425,7 @@
   end: 3243.2703854875
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.084979
   - lab: 9~
     dur: 0.185
   - lab: a
@@ -43521,7 +43521,7 @@
   end: 3250.8400907029
   segments:
   - lab: _
-    dur: 0.535
+    dur: 0.849979
   - lab: s
     dur: 0.07
   - lab: y
@@ -43625,7 +43625,7 @@
   end: 3258.6419954648
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.834979
   - lab: y
     dur: 0.145
   - lab: Z
@@ -43713,7 +43713,7 @@
   end: 3267.8835374149
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.839979
   - lab: 9~
     dur: 0.19
   - lab: a
@@ -43823,7 +43823,7 @@
   end: 3278.4253968253
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.729979
   - lab: n
     dur: 0.2
   - lab: u
@@ -43965,7 +43965,7 @@
   end: 3288.5957369614
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.884979
   - lab: i
     dur: 0.11
   - lab: l
@@ -44099,7 +44099,7 @@
   end: 3297.4657596371
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.159979
   - lab: a
     dur: 0.095
   - lab: l
@@ -44203,7 +44203,7 @@
   end: 3306.2429024942
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.794979
   - lab: a~
     dur: 0.215
   - lab: R
@@ -44311,7 +44311,7 @@
   end: 3316.2274829931
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.944979
   - lab: l
     dur: 0.11
   - lab: '@'
@@ -44427,7 +44427,7 @@
   end: 3324.6331065759
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.269979
   - lab: v
     dur: 0.015
   - lab: j
@@ -44545,7 +44545,7 @@
   end: 3332.4350113378
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.659979
   - lab: '0'
     dur: 0.1
   - lab: g
@@ -44635,7 +44635,7 @@
   end: 3340.8406349206
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.989979
   - lab: l
     dur: 0.11
   - lab: '@'
@@ -44738,10 +44738,10 @@
   text: jusqu'à aujourd'hui toujours, ce spectacle de la guerre civile joue plutôt en faveur de monsieur gorbatchev .
   date: 2013-06-28T20:45:24Z
   start: 3340.8406349206
-  end: 3351.3824943310
+  end: 3351.382494331
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.829979
   - lab: Z
     dur: 0.13
   - lab: y
@@ -44887,11 +44887,11 @@
 - prompt: text_0362
   text: ses coups de gueule sont déjà fameux et a estimé que l'on pouvait fort bien se passer du congrès .
   date: 2013-06-28T20:45:24Z
-  start: 3351.3824943310
+  start: 3351.382494331
   end: 3360.9955555555
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.729979
   - lab: s
     dur: 0.16
   - lab: e
@@ -45009,7 +45009,7 @@
   end: 3369.4011791383
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.729979
   - lab: d
     dur: 0.14
   - lab: e
@@ -45121,7 +45121,7 @@
   end: 3378.3176417233
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.779979
   - lab: 9~
     dur: 0.11
   - lab: S
@@ -45245,7 +45245,7 @@
   end: 3386.2588662131
   segments:
   - lab: _
-    dur: 0.69
+    dur: 1.164979
   - lab: n
     dur: 0.04
   - lab: u
@@ -45337,7 +45337,7 @@
   end: 3393.0390929705
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.304979
   - lab: l
     dur: 0.065
   - lab: e
@@ -45421,7 +45421,7 @@
   end: 3400.1443990929
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.604979
   - lab: o~
     dur: 0.145
   - lab: d
@@ -45503,7 +45503,7 @@
   end: 3408.3178231292
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.859979
   - lab: l
     dur: 0.035
   - lab: '@'
@@ -45603,7 +45603,7 @@
   end: 3417.6986848072
   segments:
   - lab: _
-    dur: 0.69
+    dur: 1.004979
   - lab: l
     dur: 0.1
   - lab: e
@@ -45719,7 +45719,7 @@
   end: 3427.0331065759
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.039979
   - lab: a
     dur: 0.115
   - lab: d
@@ -45835,7 +45835,7 @@
   end: 3434.8814512471
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.794979
   - lab: s
     dur: 0.16
   - lab: o~
@@ -45935,7 +45935,7 @@
   end: 3443.6585941042
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.054979
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -46043,7 +46043,7 @@
   end: 3453.3645351473
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.739979
   - lab: l
     dur: 0.125
   - lab: a
@@ -46185,7 +46185,7 @@
   end: 3463.9063945577
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.379958
   - lab: p
     dur: 0.02
   - lab: H
@@ -46313,7 +46313,7 @@
   end: 3470.6866213151
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.959979
   - lab: l
     dur: 0.175
   - lab: e
@@ -46379,7 +46379,7 @@
   end: 3481.2749206348
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.509979
   - lab: k
     dur: 0.12
   - lab: e
@@ -46519,7 +46519,7 @@
   end: 3491.8632199545
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.724958
   - lab: s
     dur: 0.105
   - lab: E
@@ -46655,7 +46655,7 @@
   end: 3502.4515192742
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.509979
   - lab: E
     dur: 0.095
   - lab: l
@@ -46791,7 +46791,7 @@
   end: 3512.7611791381
   segments:
   - lab: _
-    dur: 0.65
+    dur: 1.064979
   - lab: i
     dur: 0.14
   - lab: l
@@ -46926,10 +46926,10 @@
   text: remontée également notable à zürich, où le volume des échanges s'est toutefois amoindri au fil des jours .
   date: 2013-06-28T20:45:26Z
   start: 3512.7611791381
-  end: 3523.0708390020
+  end: 3523.070839002
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.069979
   - lab: R
     dur: 0.17
   - lab: '@'
@@ -47067,11 +47067,11 @@
 - prompt: text_0381
   text: dans du sang, dans le désert, henri fonda incarne un shérif déçu, réduit à se faire chasseur de primes .
   date: 2013-06-28T20:45:26Z
-  start: 3523.0708390020
+  start: 3523.070839002
   end: 3533.2411791381
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.699979
   - lab: d
     dur: 0.12
   - lab: a~
@@ -47207,7 +47207,7 @@
   end: 3542.8542403626
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.984979
   - lab: s
     dur: 0.155
   - lab: '@'
@@ -47345,7 +47345,7 @@
   end: 3552.0957823127
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.384979
   - lab: Z
     dur: 0.12
   - lab: '@'
@@ -47461,7 +47461,7 @@
   end: 3561.5695238093
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.654979
   - lab: n
     dur: 0.07
   - lab: '0'
@@ -47591,7 +47591,7 @@
   end: 3570.4859863943
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.954979
   - lab: p
     dur: 0.015
   - lab: a
@@ -47691,7 +47691,7 @@
   end: 3580.3312471653
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.049979
   - lab: i
     dur: 0.12
   - lab: l
@@ -47821,7 +47821,7 @@
   end: 3588.5046712016
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.769979
   - lab: 9~
     dur: 0.15
   - lab: p
@@ -47917,7 +47917,7 @@
   end: 3598.9072108841
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.669979
   - lab: l
     dur: 0.155
   - lab: a
@@ -48073,7 +48073,7 @@
   end: 3607.6843537412
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.544979
   - lab: p
     dur: 0.045
   - lab: u
@@ -48187,7 +48187,7 @@
   end: 3617.2974149657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.104979
   - lab: l
     dur: 0.07
   - lab: '0'
@@ -48313,7 +48313,7 @@
   end: 3626.6318367344
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.654979
   - lab: v
     dur: 0.115
   - lab: E
@@ -48432,10 +48432,10 @@
   text: dans le lointain, une mine a explosé sous un passage rocheux .
   date: 2013-06-28T20:45:26Z
   start: 3626.6318367344
-  end: 3633.5978231290
+  end: 3633.597823129
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.794979
   - lab: d
     dur: 0.13
   - lab: a~
@@ -48513,11 +48513,11 @@
 - prompt: text_0393
   text: ils élèvent l'enfant de la même façon qu'ils se lèvent chaque matin en renonçant à ce qu'ils aiment .
   date: 2013-06-28T20:45:26Z
-  start: 3633.5978231290
-  end: 3643.4430839000
+  start: 3633.597823129
+  end: 3643.4430839
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.219979
   - lab: i
     dur: 0.12
   - lab: l
@@ -48625,11 +48625,11 @@
 - prompt: text_0394
   text: quant à l'enseignement, mieux vaut ne pas y penser, les machines sont trop rares dans l'éducation nationale .
   date: 2013-06-28T20:45:26Z
-  start: 3643.4430839000
+  start: 3643.4430839
   end: 3653.9849433104
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.764979
   - lab: k
     dur: 0.04
   - lab: a~
@@ -48763,7 +48763,7 @@
   end: 3662.8549659861
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.889979
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -48863,7 +48863,7 @@
   end: 3670.9355102038
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.434979
   - lab: E
     dur: 0.1
   - lab: l
@@ -48967,7 +48967,7 @@
   end: 3681.5238095235
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.829979
   - lab: Z
     dur: 0.155
   - lab: a
@@ -49115,7 +49115,7 @@
   end: 3689.6043537412
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.889979
   - lab: l
     dur: 0.13
   - lab: '@'
@@ -49221,7 +49221,7 @@
   end: 3697.8706575961
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.724979
   - lab: l
     dur: 0.105
   - lab: e
@@ -49321,7 +49321,7 @@
   end: 3705.5332426301
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.594979
   - lab: a~
     dur: 0.13
   - lab: k
@@ -49423,7 +49423,7 @@
   end: 3715.6107029476
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.354979
   - lab: d
     dur: 0.115
   - lab: '@'
@@ -49544,10 +49544,10 @@
   text: on a souvent vécu de très mauvais moments, mais là on arrive à une panne complète de l'entreprise .
   date: 2013-06-28T20:45:28Z
   start: 3715.6107029476
-  end: 3725.3630839000
+  end: 3725.3630839
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.639979
   - lab: '0'
     dur: 0.165
   - lab: a
@@ -49663,11 +49663,11 @@
 - prompt: text_0403
   text: de nouveau, on pleure au cinéma, on l'avoue sans honte, preuve d'un changement dans les mentalités .
   date: 2013-06-28T20:45:28Z
-  start: 3725.3630839000
-  end: 3735.2083446710
+  start: 3725.3630839
+  end: 3735.208344671
   segments:
   - lab: _
-    dur: 0.645
+    dur: 1.319979
   - lab: d
     dur: 0.1
   - lab: '@'
@@ -49779,11 +49779,11 @@
 - prompt: text_0404
   text: un temps, l'armée de l'air du koweit a songé à demander au groupe français de moderniser sa flotte .
   date: 2013-06-28T20:45:28Z
-  start: 3735.2083446710
-  end: 3745.0536054420
+  start: 3735.208344671
+  end: 3745.053605442
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.519979
   - lab: y
     dur: 0.115
   - lab: t
@@ -49911,11 +49911,11 @@
 - prompt: text_0405
   text: il avait été relégué au sous-sol par son beau-père sous prétexte qu'il souffrait d'incontinence nocturne .
   date: 2013-06-28T20:45:28Z
-  start: 3745.0536054420
+  start: 3745.053605442
   end: 3755.2703854874
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.049979
   - lab: i
     dur: 0.125
   - lab: l
@@ -50055,7 +50055,7 @@
   end: 3765.4871655328
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.824979
   - lab: d
     dur: 0.155
   - lab: o
@@ -50186,10 +50186,10 @@
   text: mais plus grave encore est la perte absolue du jugement dont font preuve bon nombre d'entre eux .
   date: 2013-06-28T20:45:28Z
   start: 3765.4871655328
-  end: 3775.0537868480
+  end: 3775.053786848
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.739979
   - lab: m
     dur: 0.07
   - lab: E
@@ -50313,11 +50313,11 @@
 - prompt: text_0408
   text: j'ai vendu quinze millions de balles l'an passé, annonçait amusé le jeune patron anglais .
   date: 2013-06-28T20:45:28Z
-  start: 3775.0537868480
+  start: 3775.053786848
   end: 3784.1560090702
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.944979
   - lab: Z
     dur: 0.16
   - lab: E
@@ -50427,7 +50427,7 @@
   end: 3791.4935147391
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.724979
   - lab: l
     dur: 0.055
   - lab: '@'
@@ -50519,7 +50519,7 @@
   end: 3801.1065759636
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.149979
   - lab: d
     dur: 0.12
   - lab: '@'
@@ -50643,7 +50643,7 @@
   end: 3808.1190022675
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.719979
   - lab: b
     dur: 0.175
   - lab: E
@@ -50723,7 +50723,7 @@
   end: 3815.3171882085
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.789979
   - lab: i
     dur: 0.085
   - lab: l
@@ -50805,7 +50805,7 @@
   end: 3825.6268480724
   segments:
   - lab: _
-    dur: 0.64
+    dur: 1.234979
   - lab: p
     dur: 0.04
   - lab: H
@@ -50941,7 +50941,7 @@
   end: 3834.1253514738
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.929979
   - lab: o~
     dur: 0.17
   - lab: E
@@ -51055,7 +51055,7 @@
   end: 3841.8343764171
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.554979
   - lab: n
     dur: 0.21
   - lab: u
@@ -51143,7 +51143,7 @@
   end: 3849.4969614511
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.849979
   - lab: R
     dur: 0.125
   - lab: j
@@ -51245,7 +51245,7 @@
   end: 3857.0666666665
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.904979
   - lab: l
     dur: 0.125
   - lab: a
@@ -51353,7 +51353,7 @@
   end: 3865.6116099772
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.574979
   - lab: i
     dur: 0.12
   - lab: p
@@ -51465,7 +51465,7 @@
   end: 3873.4135147391
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.029979
   - lab: y
     dur: 0.09
   - lab: n
@@ -51563,7 +51563,7 @@
   end: 3883.2587755101
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.004979
   - lab: d
     dur: 0.11
   - lab: e
@@ -51695,7 +51695,7 @@
   end: 3893.0111564625
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.834979
   - lab: o~
     dur: 0.1
   - lab: s
@@ -51816,10 +51816,10 @@
   text: charles hernu est mort d'une crise cardiaque mercredi soir dix-sept janvier à villeurbanne .
   date: 2013-06-28T20:45:30Z
   start: 3893.0111564625
-  end: 3902.1598185940
+  end: 3902.159818594
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.364979
   - lab: S
     dur: 0.145
   - lab: a
@@ -51947,11 +51947,11 @@
 - prompt: text_0423
   text: de près, elles ne sont que l'addition pour un puzzle géant d'intimités perturbées .
   date: 2013-06-28T20:45:30Z
-  start: 3902.1598185940
+  start: 3902.159818594
   end: 3910.7047619047
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.674979
   - lab: d
     dur: 0.14
   - lab: '@'
@@ -52057,7 +52057,7 @@
   end: 3920.8751020408
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.024979
   - lab: R
     dur: 0.02
   - lab: e
@@ -52195,7 +52195,7 @@
   end: 3929.7451247165
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.774979
   - lab: t
     dur: 0.035
   - lab: u
@@ -52317,7 +52317,7 @@
   end: 3938.8473469387
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.654979
   - lab: a~
     dur: 0.185
   - lab: a
@@ -52433,7 +52433,7 @@
   end: 3948.5532879818
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.919979
   - lab: k
     dur: 0.015
   - lab: '0'
@@ -52561,7 +52561,7 @@
   end: 3958.5378684807
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.629979
   - lab: p
     dur: 0.02
   - lab: u
@@ -52695,7 +52695,7 @@
   end: 3968.3831292517
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.819979
   - lab: s
     dur: 0.155
   - lab: E
@@ -52823,7 +52823,7 @@
   end: 3977.9497505669
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.024979
   - lab: '0'
     dur: 0.02
   - lab: R
@@ -52947,7 +52947,7 @@
   end: 3986.4482539683
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.899979
   - lab: m
     dur: 0.075
   - lab: a
@@ -53055,7 +53055,7 @@
   end: 3996.0613151928
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.724979
   - lab: a
     dur: 0.135
   - lab: k
@@ -53181,7 +53181,7 @@
   end: 4002.8415419502
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.979979
   - lab: s
     dur: 0.215
   - lab: '9'
@@ -53259,7 +53259,7 @@
   end: 4009.8539682541
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.764979
   - lab: i
     dur: 0.07
   - lab: l
@@ -53353,7 +53353,7 @@
   end: 4019.9314285716
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.049979
   - lab: d
     dur: 0.105
   - lab: '@'
@@ -53491,7 +53491,7 @@
   end: 4029.5444897961
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.954979
   - lab: i
     dur: 0.175
   - lab: n
@@ -53629,7 +53629,7 @@
   end: 4039.4826303857
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.959979
   - lab: y
     dur: 0.065
   - lab: n
@@ -53763,7 +53763,7 @@
   end: 4047.9811337871
   segments:
   - lab: _
-    dur: 0.645
+    dur: 1.049979
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -53859,7 +53859,7 @@
   end: 4057.6870748302
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.784979
   - lab: i
     dur: 0.095
   - lab: l
@@ -53987,7 +53987,7 @@
   end: 4066.5570975059
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.644979
   - lab: y
     dur: 0.12
   - lab: k
@@ -54107,7 +54107,7 @@
   end: 4074.3590022678
   segments:
   - lab: _
-    dur: 0.64
+    dur: 1.264979
   - lab: S
     dur: 0.145
   - lab: E
@@ -54205,7 +54205,7 @@
   end: 4084.9473015875
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.109979
   - lab: k
     dur: 0.03
   - lab: a~
@@ -54341,7 +54341,7 @@
   end: 4094.3281632655
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.779979
   - lab: n
     dur: 0.125
   - lab: u
@@ -54473,7 +54473,7 @@
   end: 4103.1053061226
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.864979
   - lab: a~
     dur: 0.135
   - lab: l
@@ -54570,10 +54570,10 @@
   text: au total, ni grand dessein ni remède miracle, mais un discours encore très général et déjà cent fois répété .
   date: 2013-06-28T20:45:32Z
   start: 4103.1053061226
-  end: 4113.6471655330
+  end: 4113.647165533
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.784979
   - lab: o
     dur: 0.15
   - lab: t
@@ -54719,11 +54719,11 @@
 - prompt: text_0446
   text: peut-être les fameuses usines de l'espace existeront-elles un jour .
   date: 2013-06-28T20:45:32Z
-  start: 4113.6471655330
+  start: 4113.647165533
   end: 4120.9846712019
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.539979
   - lab: p
     dur: 0.025
   - lab: '@'
@@ -54813,7 +54813,7 @@
   end: 4129.0187755103
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.724979
   - lab: o~
     dur: 0.155
   - lab: v
@@ -54899,7 +54899,7 @@
   end: 4137.7959183674
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.734979
   - lab: l
     dur: 0.13
   - lab: '@'
@@ -55009,7 +55009,7 @@
   end: 4145.9693424037
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.034979
   - lab: k
     dur: 0.02
   - lab: '0'
@@ -55121,7 +55121,7 @@
   end: 4155.7217233561
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.654979
   - lab: i
     dur: 0.135
   - lab: m
@@ -55241,7 +55241,7 @@
   end: 4164.5917460318
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.944979
   - lab: S
     dur: 0.125
   - lab: a
@@ -55355,7 +55355,7 @@
   end: 4173.2295691611
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.234979
   - lab: a
     dur: 0.095
   - lab: s
@@ -55466,10 +55466,10 @@
   text: qui ne s'est jamais retenu d'interrompre les jeux de mains et de regards d'une paire d'amoureux en public .
   date: 2013-06-28T20:45:32Z
   start: 4173.2295691611
-  end: 4183.5392290250
+  end: 4183.539229025
   segments:
   - lab: _
-    dur: 0.64
+    dur: 1.014979
   - lab: k
     dur: 0.07
   - lab: i
@@ -55593,11 +55593,11 @@
 - prompt: text_0454
   text: quand l'incendie a éclaté, ça a été un sauve-qui-peut général .
   date: 2013-06-28T20:45:32Z
-  start: 4183.5392290250
+  start: 4183.539229025
   end: 4190.5516553289
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.299979
   - lab: k
     dur: 0.015
   - lab: a~
@@ -55678,10 +55678,10 @@
   text: et ils se sentent eux-mêmes expulsés de leur identité tant elle est marquée de douleur et de ou de peur .
   date: 2013-06-28T20:45:32Z
   start: 4190.5516553289
-  end: 4200.7219954650
+  end: 4200.721995465
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.829979
   - lab: e
     dur: 0.015
   - lab: i
@@ -55809,11 +55809,11 @@
 - prompt: text_0456
   text: les douze, treize et vingt mars, chacun aura la possibilité de mesurer sa vitesse, skis aux pieds .
   date: 2013-06-28T20:45:34Z
-  start: 4200.7219954650
+  start: 4200.721995465
   end: 4210.4743764174
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.634979
   - lab: l
     dur: 0.085
   - lab: '@'
@@ -55943,7 +55943,7 @@
   end: 4220.3196371884
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.734979
   - lab: l
     dur: 0.14
   - lab: e
@@ -56075,7 +56075,7 @@
   end: 4229.0967800455
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.989979
   - lab: y
     dur: 0.095
   - lab: k
@@ -56183,7 +56183,7 @@
   end: 4237.4095238097
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.044979
   - lab: i
     dur: 0.14
   - lab: g
@@ -56293,7 +56293,7 @@
   end: 4245.2114285716
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.054979
   - lab: i
     dur: 0.14
   - lab: l
@@ -56397,7 +56397,7 @@
   end: 4254.8244897961
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.004979
   - lab: a~
     dur: 0.175
   - lab: t
@@ -56509,7 +56509,7 @@
   end: 4263.2301133789
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.854979
   - lab: p
     dur: 0.045
   - lab: a
@@ -56625,7 +56625,7 @@
   end: 4273.7719727893
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.224979
   - lab: i
     dur: 0.155
   - lab: l
@@ -56767,7 +56767,7 @@
   end: 4280.6450793653
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.849979
   - lab: a
     dur: 0.095
   - lab: l
@@ -56847,7 +56847,7 @@
   end: 4290.2117006805
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.069979
   - lab: u
     dur: 0.09
   - lab: b
@@ -56957,7 +56957,7 @@
   end: 4299.5925623585
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.944979
   - lab: p
     dur: 0.025
   - lab: a
@@ -57079,7 +57079,7 @@
   end: 4308.8341043086
   segments:
   - lab: _
-    dur: 0.63
+    dur: 1.124979
   - lab: s
     dur: 0.125
   - lab: '0'
@@ -57199,7 +57199,7 @@
   end: 4318.5400453517
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.574979
   - lab: m
     dur: 0.11
   - lab: E
@@ -57331,7 +57331,7 @@
   end: 4327.2243083902
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.699979
   - lab: i
     dur: 0.17
   - lab: l
@@ -57443,7 +57443,7 @@
   end: 4334.9333333335
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.979979
   - lab: i
     dur: 0.125
   - lab: l
@@ -57525,7 +57525,7 @@
   end: 4344.2677551022
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.954979
   - lab: a
     dur: 0.095
   - lab: v
@@ -57641,7 +57641,7 @@
   end: 4351.6052607711
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.479979
   - lab: d
     dur: 0.08
   - lab: a~
@@ -57727,7 +57727,7 @@
   end: 4361.0790022677
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.784979
   - lab: n
     dur: 0.105
   - lab: '@'
@@ -57853,7 +57853,7 @@
   end: 4367.9521088437
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.979979
   - lab: n
     dur: 0.06
   - lab: u
@@ -57935,7 +57935,7 @@
   end: 4374.6858956918
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.924979
   - lab: l
     dur: 0.1
   - lab: e
@@ -58009,7 +58009,7 @@
   end: 4383.6952380954
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.859979
   - lab: 9~
     dur: 0.17
   - lab: k
@@ -58121,7 +58121,7 @@
   end: 4391.1256235829
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.969979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -58213,7 +58213,7 @@
   end: 4400.5993650795
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.849979
   - lab: k
     dur: 0.035
   - lab: a~
@@ -58329,7 +58329,7 @@
   end: 4408.4477097507
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.994979
   - lab: s
     dur: 0.135
   - lab: '@'
@@ -58433,7 +58433,7 @@
   end: 4416.9462131521
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.044979
   - lab: E
     dur: 0.075
   - lab: l
@@ -58541,7 +58541,7 @@
   end: 4426.3270748301
   segments:
   - lab: _
-    dur: 0.485
+    dur: 0.739979
   - lab: s
     dur: 0.13
   - lab: k
@@ -58675,7 +58675,7 @@
   end: 4436.7296145126
   segments:
   - lab: _
-    dur: 0.615
+    dur: 1.139979
   - lab: s
     dur: 0.135
   - lab: a~
@@ -58823,7 +58823,7 @@
   end: 4444.6708390024
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.894979
   - lab: v
     dur: 0.15
   - lab: E
@@ -58923,7 +58923,7 @@
   end: 4455.2126984128
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.794979
   - lab: p
     dur: 0.025
   - lab: E
@@ -59061,7 +59061,7 @@
   end: 4463.4790022677
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.639979
   - lab: l
     dur: 0.11
   - lab: '@'
@@ -59190,10 +59190,10 @@
   text: tout cela fait-il, pour autant, un parc architectural au niveau international .
   date: 2013-06-28T20:45:36Z
   start: 4463.4790022677
-  end: 4471.6524263040
+  end: 4471.652426304
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.519979
   - lab: t
     dur: 0.035
   - lab: u
@@ -59303,11 +59303,11 @@
 - prompt: text_0487
   text: or, ce dernier, toutes les parties, en présence, en conviennent, atteint un seuil qui ne doit pas être franchi .
   date: 2013-06-28T20:45:36Z
-  start: 4471.6524263040
+  start: 4471.652426304
   end: 4482.4264852609
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.379979
   - lab: '0'
     dur: 0.02
   - lab: R
@@ -59441,7 +59441,7 @@
   end: 4491.0643083902
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.649979
   - lab: d
     dur: 0.135
   - lab: '@'
@@ -59565,7 +59565,7 @@
   end: 4501.8848072564
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.824979
   - lab: l
     dur: 0.13
   - lab: '@'
@@ -59711,7 +59711,7 @@
   end: 4511.2656689344
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.584979
   - lab: Z
     dur: 0.225
   - lab: E
@@ -59821,7 +59821,7 @@
   end: 4521.6682086169
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.219979
   - lab: E
     dur: 0.07
   - lab: i
@@ -59938,10 +59938,10 @@
   text: rendre nos frontières étanches ne serait pas une mince affaire pour plusieurs raisons .
   date: 2013-06-28T20:45:36Z
   start: 4521.6682086169
-  end: 4530.4453514740
+  end: 4530.445351474
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.909979
   - lab: R
     dur: 0.15
   - lab: a~
@@ -60045,11 +60045,11 @@
 - prompt: text_0493
   text: il s'y était vu reprocher la tolérance relative dont bénéficient les milieux libéraux de la colonie .
   date: 2013-06-28T20:45:36Z
-  start: 4530.4453514740
-  end: 4540.2906122450
+  start: 4530.445351474
+  end: 4540.290612245
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.139979
   - lab: i
     dur: 0.14
   - lab: l
@@ -60183,11 +60183,11 @@
 - prompt: text_0494
   text: qu'on le veuille ou non, la communauté a été créée dans un contexte de guerre froide .
   date: 2013-06-28T20:45:36Z
-  start: 4540.2906122450
+  start: 4540.290612245
   end: 4549.0677551021
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.784979
   - lab: k
     dur: 0.015
   - lab: o~
@@ -60297,7 +60297,7 @@
   end: 4556.0337414967
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.614979
   - lab: l
     dur: 0.115
   - lab: o
@@ -60384,10 +60384,10 @@
   text: il y a eu les longues périodes de couvre-feu, les rues fermées et les maisons détruites dans la vieille ville .
   date: 2013-06-28T20:45:36Z
   start: 4556.0337414967
-  end: 4566.7149206350
+  end: 4566.714920635
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.094979
   - lab: i
     dur: 0.1
   - lab: i
@@ -60511,11 +60511,11 @@
 - prompt: text_0497
   text: sauf nécessité, beaucoup ont donc décidé de fuir les mises en demeure lancées par les directions des hôpitaux .
   date: 2013-06-28T20:45:36Z
-  start: 4566.7149206350
+  start: 4566.714920635
   end: 4577.3960997733
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.684979
   - lab: s
     dur: 0.175
   - lab: o
@@ -60659,7 +60659,7 @@
   end: 4585.8946031747
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.964979
   - lab: l
     dur: 0.165
   - lab: '9'
@@ -60765,7 +60765,7 @@
   end: 4593.2321088436
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.174979
   - lab: y
     dur: 0.13
   - lab: n
@@ -60845,7 +60845,7 @@
   end: 4602.9380498867
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.014979
   - lab: a
     dur: 0.095
   - lab: w
@@ -60975,7 +60975,7 @@
   end: 4612.6439909298
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.539979
   - lab: m
     dur: 0.095
   - lab: y
@@ -61107,7 +61107,7 @@
   end: 4621.9784126985
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.069979
   - lab: t
     dur: 0.035
   - lab: u
@@ -61223,7 +61223,7 @@
   end: 4632.1951927439
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.004979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -61361,7 +61361,7 @@
   end: 4642.7370521543
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.664979
   - lab: d
     dur: 0.135
   - lab: e
@@ -61487,7 +61487,7 @@
   end: 4652.8145124718
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.399979
   - lab: o
     dur: 0.13
   - lab: p
@@ -61613,7 +61613,7 @@
   end: 4662.1489342405
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.429979
   - lab: a
     dur: 0.09
   - lab: a~
@@ -61731,7 +61731,7 @@
   end: 4670.4152380954
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.979979
   - lab: l
     dur: 0.125
   - lab: e
@@ -61827,7 +61827,7 @@
   end: 4678.7279818596
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.764979
   - lab: l
     dur: 0.165
   - lab: '@'
@@ -61927,7 +61927,7 @@
   end: 4689.3162811793
   segments:
   - lab: _
-    dur: 0.63
+    dur: 1.154979
   - lab: S
     dur: 0.135
   - lab: a
@@ -62076,10 +62076,10 @@
   text: disons tout net que le texte gouvernemental constitue en tout point une curiosité .
   date: 2013-06-28T20:45:38Z
   start: 4689.3162811793
-  end: 4697.8612244900
+  end: 4697.86122449
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.034979
   - lab: d
     dur: 0.14
   - lab: i
@@ -62195,11 +62195,11 @@
 - prompt: text_0511
   text: les producteurs québécois redoutaient d'être victimes des quotas européens au même titre que les américains .
   date: 2013-06-28T20:45:38Z
-  start: 4697.8612244900
+  start: 4697.86122449
   end: 4708.3102040818
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.924979
   - lab: l
     dur: 0.11
   - lab: e
@@ -62343,7 +62343,7 @@
   end: 4715.9727891158
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.799979
   - lab: s
     dur: 0.15
   - lab: u
@@ -62429,7 +62429,7 @@
   end: 4724.1462131521
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.664979
   - lab: E
     dur: 0.095
   - lab: l
@@ -62533,7 +62533,7 @@
   end: 4731.2515192745
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.859979
   - lab: p
     dur: 0.035
   - lab: a~
@@ -62613,7 +62613,7 @@
   end: 4739.5178231294
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.054979
   - lab: o
     dur: 0.08
   - lab: s
@@ -62719,7 +62719,7 @@
   end: 4747.8305668936
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.739979
   - lab: '0'
     dur: 0.095
   - lab: p
@@ -62827,7 +62827,7 @@
   end: 4755.4931519276
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.839979
   - lab: l
     dur: 0.08
   - lab: a
@@ -62929,7 +62929,7 @@
   end: 4763.4343764174
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.874979
   - lab: l
     dur: 0.135
   - lab: a
@@ -63026,10 +63026,10 @@
   text: leur casque n'est pas réglementaire, remarqua un employé de banque avec un saxophone sur sa cravate .
   date: 2013-06-28T20:45:38Z
   start: 4763.4343764174
-  end: 4773.3725170070
+  end: 4773.372517007
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.479979
   - lab: l
     dur: 0.1
   - lab: '9'
@@ -63169,11 +63169,11 @@
 - prompt: text_0520
   text: il dénonce une situation moyen-âgeuse, notamment pour les eaux usées rejetées directement en mer .
   date: 2013-06-28T20:45:40Z
-  start: 4773.3725170070
+  start: 4773.372517007
   end: 4783.0784580501
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.349979
   - lab: i
     dur: 0.155
   - lab: d
@@ -63303,7 +63303,7 @@
   end: 4791.6234013608
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.829979
   - lab: s
     dur: 0.165
   - lab: '@'
@@ -63413,7 +63413,7 @@
   end: 4801.3757823132
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.149979
   - lab: t
     dur: 0.03
   - lab: a~
@@ -63559,7 +63559,7 @@
   end: 4809.6885260774
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.664979
   - lab: l
     dur: 0.14
   - lab: '@'
@@ -63669,7 +63669,7 @@
   end: 4817.2582312928
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.949979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -63753,7 +63753,7 @@
   end: 4826.1746938778
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.679979
   - lab: o~
     dur: 0.1
   - lab: l
@@ -63862,10 +63862,10 @@
   text: mais de l'enfer nazi, même des voix d'écrivains et de poètes yiddish nous sont parvenues .
   date: 2013-06-28T20:45:40Z
   start: 4826.1746938778
-  end: 4835.2769161000
+  end: 4835.2769161
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.474979
   - lab: m
     dur: 0.115
   - lab: E
@@ -63973,11 +63973,11 @@
 - prompt: text_0527
   text: l'actrice en est quitte pour un solide choc nerveux et une peu de repos .
   date: 2013-06-28T20:45:40Z
-  start: 4835.2769161000
+  start: 4835.2769161
   end: 4842.9859410433
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.839979
   - lab: l
     dur: 0.095
   - lab: a
@@ -64073,7 +64073,7 @@
   end: 4849.9519274379
   segments:
   - lab: _
-    dur: 0.64
+    dur: 1.134979
   - lab: l
     dur: 0.025
   - lab: H
@@ -64165,7 +64165,7 @@
   end: 4857.6145124719
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.604979
   - lab: y
     dur: 0.075
   - lab: n
@@ -64255,7 +64255,7 @@
   end: 4865.3235374152
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.629979
   - lab: g
     dur: 0.12
   - lab: l
@@ -64347,7 +64347,7 @@
   end: 4873.4040816329
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.654979
   - lab: n
     dur: 0.085
   - lab: u
@@ -64459,7 +64459,7 @@
   end: 4882.8778231295
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.859979
   - lab: m
     dur: 0.08
   - lab: E
@@ -64581,7 +64581,7 @@
   end: 4893.1874829934
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.414979
   - lab: E
     dur: 0.095
   - lab: l
@@ -64709,7 +64709,7 @@
   end: 4902.8005442179
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.694979
   - lab: o
     dur: 0.135
   - lab: Z
@@ -64821,7 +64821,7 @@
   end: 4910.1380498868
   segments:
   - lab: _
-    dur: 0.585
+    dur: 1.029979
   - lab: k
     dur: 0.075
   - lab: a~
@@ -64898,10 +64898,10 @@
   text: vingt mois après le premier retour de la gauche au pouvoir, de quoi parlait-on .
   date: 2013-06-28T20:45:40Z
   start: 4910.1380498868
-  end: 4918.4507936510
+  end: 4918.450793651
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.044979
   - lab: v
     dur: 0.155
   - lab: e~
@@ -65005,11 +65005,11 @@
 - prompt: text_0537
   text: le ski en dehors des pistes assurées y exige aussi un choix de l'itinéraire réfléchi et prudent .
   date: 2013-06-28T20:45:40Z
-  start: 4918.4507936510
+  start: 4918.450793651
   end: 4928.0174149662
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.504979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -65137,7 +65137,7 @@
   end: 4938.2341950116
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.759979
   - lab: l
     dur: 0.12
   - lab: u
@@ -65271,7 +65271,7 @@
   end: 4946.7791383223
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.784979
   - lab: l
     dur: 0.125
   - lab: a
@@ -65377,7 +65377,7 @@
   end: 4955.0918820865
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.719979
   - lab: i
     dur: 0.115
   - lab: R
@@ -65477,7 +65477,7 @@
   end: 4962.4293877554
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.104979
   - lab: i
     dur: 0.13
   - lab: l
@@ -65561,7 +65561,7 @@
   end: 4969.9990929708
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.869979
   - lab: i
     dur: 0.105
   - lab: e
@@ -65647,7 +65647,7 @@
   end: 4977.9403174606
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.989979
   - lab: H
     dur: 0.145
   - lab: i
@@ -65743,7 +65743,7 @@
   end: 4987.3211791386
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.874979
   - lab: p
     dur: 0.08
   - lab: '9'
@@ -65869,7 +65869,7 @@
   end: 4994.6586848075
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.839979
   - lab: i
     dur: 0.145
   - lab: l
@@ -65955,7 +65955,7 @@
   end: 5002.3677097508
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.719979
   - lab: a
     dur: 0.1
   - lab: n
@@ -66048,10 +66048,10 @@
   text: la liberté de manifester est, pour l'instant, la seule qui se soit vraiment installée en r d a .
   date: 2013-06-28T20:45:42Z
   start: 5002.3677097508
-  end: 5011.9343310660
+  end: 5011.934331066
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.874979
   - lab: l
     dur: 0.105
   - lab: a
@@ -66181,11 +66181,11 @@
 - prompt: text_0548
   text: l'étiage d'un cours d'eau, c'est son niveau le plus bas en période sèche .
   date: 2013-06-28T20:45:42Z
-  start: 5011.9343310660
+  start: 5011.934331066
   end: 5019.7826757372
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.024979
   - lab: l
     dur: 0.11
   - lab: e
@@ -66273,7 +66273,7 @@
   end: 5027.6310204084
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.749979
   - lab: l
     dur: 0.14
   - lab: E
@@ -66371,7 +66371,7 @@
   end: 5036.1759637191
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.859979
   - lab: y
     dur: 0.11
   - lab: k
@@ -66471,7 +66471,7 @@
   end: 5045.4175056692
   segments:
   - lab: _
-    dur: 0.68
+    dur: 2.324979
   - lab: l
     dur: 0.065
   - lab: a
@@ -66607,7 +66607,7 @@
   end: 5056.0058049889
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.759979
   - lab: y
     dur: 0.11
   - lab: s
@@ -66742,10 +66742,10 @@
   text: mais depuis quelques années, on s'aperçoit que cela change que les choses bougent beaucoup .
   date: 2013-06-28T20:45:42Z
   start: 5056.0058049889
-  end: 5065.2473469390
+  end: 5065.247346939
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.649979
   - lab: m
     dur: 0.145
   - lab: E
@@ -66845,11 +66845,11 @@
 - prompt: text_0554
   text: les deux hommes ont combattu en se distinguant à l'étranger et ont cherché fortune à l'ouest .
   date: 2013-06-28T20:45:42Z
-  start: 5065.2473469390
-  end: 5074.6282086170
+  start: 5065.247346939
+  end: 5074.628208617
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.294979
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -66953,11 +66953,11 @@
 - prompt: text_0555
   text: une guitare, par exemple, ça me rend heureux tout un après-midi .
   date: 2013-06-28T20:45:42Z
-  start: 5074.6282086170
-  end: 5081.8263945580
+  start: 5074.628208617
+  end: 5081.826394558
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.669979
   - lab: y
     dur: 0.06
   - lab: n
@@ -67047,11 +67047,11 @@
 - prompt: text_0556
   text: destinés aux lycéens et aux étudiants, ils peuvent aussi intéresser tous les amateurs éclairés .
   date: 2013-06-28T20:45:42Z
-  start: 5081.8263945580
+  start: 5081.826394558
   end: 5091.3930158732
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.849979
   - lab: d
     dur: 0.145
   - lab: E
@@ -67169,7 +67169,7 @@
   end: 5098.9627210886
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.749979
   - lab: l
     dur: 0.14
   - lab: '@'
@@ -67259,7 +67259,7 @@
   end: 5106.3931065761
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.839979
   - lab: s
     dur: 0.17
   - lab: '9'
@@ -67353,7 +67353,7 @@
   end: 5114.4736507938
   segments:
   - lab: _
-    dur: 0.565
+    dur: 0.349958
   - lab: k
     dur: 0.17
   - lab: a
@@ -67453,7 +67453,7 @@
   end: 5121.9040362813
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.849979
   - lab: l
     dur: 0.14
   - lab: e
@@ -67543,7 +67543,7 @@
   end: 5131.8421768709
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.914979
   - lab: Z
     dur: 0.15
   - lab: '@'
@@ -67691,7 +67691,7 @@
   end: 5140.2478004537
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.164979
   - lab: '0'
     dur: 0.11
   - lab: k
@@ -67801,7 +67801,7 @@
   end: 5148.6534240365
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.599979
   - lab: l
     dur: 0.165
   - lab: e
@@ -67907,7 +67907,7 @@
   end: 5157.9878458052
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.784979
   - lab: l
     dur: 0.1
   - lab: a
@@ -68051,7 +68051,7 @@
   end: 5168.0653061227
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.674979
   - lab: i
     dur: 0.03
   - lab: i
@@ -68170,10 +68170,10 @@
   text: les hôteliers et les cafetiers sortent du bois et invitent leurs membres à dire non .
   date: 2013-06-28T20:45:44Z
   start: 5168.0653061227
-  end: 5176.7031292520
+  end: 5176.703129252
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.094979
   - lab: l
     dur: 0.115
   - lab: e
@@ -68273,11 +68273,11 @@
 - prompt: text_0567
   text: on marchait ensemble dans la campagne bourguignonne, on parlait de tout, musique, livres, théâtre .
   date: 2013-06-28T20:45:44Z
-  start: 5176.7031292520
+  start: 5176.703129252
   end: 5186.4555102044
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.684979
   - lab: '0'
     dur: 0.08
   - lab: m
@@ -68409,7 +68409,7 @@
   end: 5194.1180952384
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.044979
   - lab: i
     dur: 0.25
   - lab: l
@@ -68495,7 +68495,7 @@
   end: 5202.7559183677
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.689979
   - lab: l
     dur: 0.11
   - lab: '@'
@@ -68601,7 +68601,7 @@
   end: 5211.4401814062
   segments:
   - lab: _
-    dur: 0.625
+    dur: 1.169979
   - lab: k
     dur: 0.08
   - lab: a
@@ -68717,7 +68717,7 @@
   end: 5218.7776870751
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.869979
   - lab: p
     dur: 0.02
   - lab: j
@@ -68801,7 +68801,7 @@
   end: 5227.4619501136
   segments:
   - lab: _
-    dur: 0.61
+    dur: 1.104979
   - lab: t
     dur: 0.06
   - lab: y
@@ -68917,7 +68917,7 @@
   end: 5237.4000907032
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.819979
   - lab: y
     dur: 0.12
   - lab: g
@@ -69055,7 +69055,7 @@
   end: 5245.2019954651
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.804979
   - lab: n
     dur: 0.125
   - lab: u
@@ -69153,7 +69153,7 @@
   end: 5254.3042176873
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.469979
   - lab: i
     dur: 0.29
   - lab: l
@@ -69265,7 +69265,7 @@
   end: 5264.2887981862
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.979979
   - lab: l
     dur: 0.085
   - lab: e
@@ -69396,10 +69396,10 @@
   text: il y a peut-être un sérail, mais il est plus ouvert que ne le pense, conclut-il .
   date: 2013-06-28T20:45:44Z
   start: 5264.2887981862
-  end: 5272.6944217690
+  end: 5272.694421769
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.934979
   - lab: i
     dur: 0.095
   - lab: i
@@ -69503,11 +69503,11 @@
 - prompt: text_0578
   text: un genre, c'est une contrainte et on est heureux quand on a des contraintes .
   date: 2013-06-28T20:45:44Z
-  start: 5272.6944217690
+  start: 5272.694421769
   end: 5280.7285260774
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.904979
   - lab: 9~
     dur: 0.15
   - lab: Z
@@ -69589,7 +69589,7 @@
   end: 5288.6697505672
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.349979
   - lab: s
     dur: 0.185
   - lab: i
@@ -69697,7 +69697,7 @@
   end: 5297.8184126987
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.969979
   - lab: i
     dur: 0.15
   - lab: a
@@ -69799,7 +69799,7 @@
   end: 5307.8958730162
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.089979
   - lab: a~
     dur: 0.09
   - lab: m
@@ -69937,7 +69937,7 @@
   end: 5318.4377324266
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.579979
   - lab: s
     dur: 0.14
   - lab: '@'
@@ -70081,7 +70081,7 @@
   end: 5327.1219954651
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.894979
   - lab: i
     dur: 0.115
   - lab: l
@@ -70190,10 +70190,10 @@
   text: on a ensuite pompé l'eau, ainsi isolée, à l'aide d'abord de moulins à vent puis de machines à vapeur .
   date: 2013-06-28T20:45:44Z
   start: 5327.1219954651
-  end: 5337.1065759640
+  end: 5337.106575964
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.724979
   - lab: '0'
     dur: 0.17
   - lab: a
@@ -70313,11 +70313,11 @@
 - prompt: text_0585
   text: gypaète barbu faisait partie de notre nature autrefois et il a le droit d'y subsister .
   date: 2013-06-28T20:45:44Z
-  start: 5337.1065759640
+  start: 5337.106575964
   end: 5345.8837188211
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.429979
   - lab: Z
     dur: 0.15
   - lab: i
@@ -70445,7 +70445,7 @@
   end: 5355.4967800456
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.719979
   - lab: n
     dur: 0.08
   - lab: u
@@ -70577,7 +70577,7 @@
   end: 5364.3668027213
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.324979
   - lab: Z
     dur: 0.125
   - lab: a
@@ -70671,7 +70671,7 @@
   end: 5374.8157823131
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.899979
   - lab: l
     dur: 0.09
   - lab: e
@@ -70800,10 +70800,10 @@
   text: son treuil câblé remonte, en force, un fagot d'une tonne et demie .
   date: 2013-06-28T20:45:46Z
   start: 5374.8157823131
-  end: 5382.1532879820
+  end: 5382.153287982
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.609979
   - lab: s
     dur: 0.135
   - lab: '0'
@@ -70887,11 +70887,11 @@
 - prompt: text_0590
   text: de plus, on relève deux failles qui pourraient se révéler extrêmement dangereuses pour l'avenir de la trêve .
   date: 2013-06-28T20:45:46Z
-  start: 5382.1532879820
+  start: 5382.153287982
   end: 5392.6951473924
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.384979
   - lab: d
     dur: 0.115
   - lab: '@'
@@ -71035,7 +71035,7 @@
   end: 5403.1441269842
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.804979
   - lab: a~
     dur: 0.155
   - lab: e
@@ -71173,7 +71173,7 @@
   end: 5410.5745124717
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.659979
   - lab: s
     dur: 0.14
   - lab: '@'
@@ -71275,7 +71275,7 @@
   end: 5419.0730158731
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.924979
   - lab: l
     dur: 0.095
   - lab: a
@@ -71387,7 +71387,7 @@
   end: 5427.6179591838
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.814979
   - lab: k
     dur: 0.04
   - lab: s
@@ -71485,7 +71485,7 @@
   end: 5436.1629024945
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.964979
   - lab: d
     dur: 0.095
   - lab: e
@@ -71585,7 +71585,7 @@
   end: 5444.5685260773
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.694979
   - lab: k
     dur: 0.045
   - lab: a
@@ -71691,7 +71691,7 @@
   end: 5452.8348299322
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.804979
   - lab: i
     dur: 0.12
   - lab: e
@@ -71791,7 +71791,7 @@
   end: 5463.4231292519
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.809979
   - lab: a~
     dur: 0.115
   - lab: f
@@ -71919,7 +71919,7 @@
   end: 5472.4324716555
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.364979
   - lab: l
     dur: 0.045
   - lab: a
@@ -72047,7 +72047,7 @@
   end: 5481.8133333335
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.849979
   - lab: d
     dur: 0.16
   - lab: a~
@@ -72171,7 +72171,7 @@
   end: 5492.2623129253
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.419979
   - lab: m
     dur: 0.165
   - lab: E
@@ -72310,10 +72310,10 @@
   text: cette étude permet de dresser une sorte de profil-type du jeune consommateur de drogue .
   date: 2013-06-28T20:45:46Z
   start: 5492.2623129253
-  end: 5501.1323356010
+  end: 5501.132335601
   segments:
   - lab: _
-    dur: 0.635
+    dur: 1.049979
   - lab: s
     dur: 0.145
   - lab: E
@@ -72433,11 +72433,11 @@
 - prompt: text_0603
   text: un hamburger est un bifteck haché servi grillé sur une tranche de pain .
   date: 2013-06-28T20:45:48Z
-  start: 5501.1323356010
-  end: 5508.7949206350
+  start: 5501.132335601
+  end: 5508.794920635
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.404979
   - lab: 9~
     dur: 0.2
   - lab: a~
@@ -72533,11 +72533,11 @@
 - prompt: text_0604
   text: budapest va donc accélérer le passage au commerce en devises fortes .
   date: 2013-06-28T20:45:48Z
-  start: 5508.7949206350
+  start: 5508.794920635
   end: 5516.2253061225
   segments:
   - lab: _
-    dur: 0.715
+    dur: 0.949979
   - lab: b
     dur: 0.015
   - lab: y
@@ -72640,10 +72640,10 @@
   text: les universités des pays de l'est ont fait une entrée remarquée à la conférence des recteurs européens .
   date: 2013-06-28T20:45:48Z
   start: 5516.2253061225
-  end: 5526.3027664400
+  end: 5526.30276644
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.284979
   - lab: l
     dur: 0.13
   - lab: e
@@ -72773,11 +72773,11 @@
 - prompt: text_0606
   text: on ne rencontre que quelques groupes carton sous les sous le bras, euh, dans les couloirs .
   date: 2013-06-28T20:45:48Z
-  start: 5526.3027664400
+  start: 5526.30276644
   end: 5535.4049886622
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.134979
   - lab: o~
     dur: 0.13
   - lab: n
@@ -72885,7 +72885,7 @@
   end: 5543.2533333334
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.579979
   - lab: n
     dur: 0.13
   - lab: '@'
@@ -72993,7 +72993,7 @@
   end: 5550.0335600908
   segments:
   - lab: _
-    dur: 0.495
+    dur: 0.669979
   - lab: k
     dur: 0.21
   - lab: a
@@ -73072,10 +73072,10 @@
   text: faudrait-il donc jeter la raison avec les abus auxquels elle a donné lieu .
   date: 2013-06-28T20:45:48Z
   start: 5550.0335600908
-  end: 5557.8819047620
+  end: 5557.881904762
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.944979
   - lab: f
     dur: 0.05
   - lab: o
@@ -73167,11 +73167,11 @@
 - prompt: text_0610
   text: la tête se plaint de ce cow-boy qui refuse la loi du milieu et donc du silence .
   date: 2013-06-28T20:45:48Z
-  start: 5557.8819047620
+  start: 5557.881904762
   end: 5566.1482086169
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.849979
   - lab: l
     dur: 0.115
   - lab: a
@@ -73281,7 +73281,7 @@
   end: 5574.2287528346
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.794979
   - lab: l
     dur: 0.14
   - lab: '@'
@@ -73385,7 +73385,7 @@
   end: 5582.4950566895
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.834979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -73468,10 +73468,10 @@
   text: les observateurs ont été surpris par l'annonce de la banque du japon du onze octobre .
   date: 2013-06-28T20:45:48Z
   start: 5582.4950566895
-  end: 5591.1793197280
+  end: 5591.179319728
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.024979
   - lab: l
     dur: 0.065
   - lab: e
@@ -73585,11 +73585,11 @@
 - prompt: text_0614
   text: l'oie grasse française, elle vient plutôt de dordogne avec deux cent cinquante mille volatiles .
   date: 2013-06-28T20:45:48Z
-  start: 5591.1793197280
+  start: 5591.179319728
   end: 5600.7459410432
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.599979
   - lab: l
     dur: 0.13
   - lab: w
@@ -73711,7 +73711,7 @@
   end: 5610.3590022677
   segments:
   - lab: _
-    dur: 0.72
+    dur: 1.154979
   - lab: m
     dur: 0.095
   - lab: E
@@ -73831,7 +73831,7 @@
   end: 5620.5293424038
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.044979
   - lab: l
     dur: 0.11
   - lab: a
@@ -73958,10 +73958,10 @@
   text: c'est comme d'être assise dans un cinéma bondé ou le dos tourné à la salle au restaurant .
   date: 2013-06-28T20:45:48Z
   start: 5620.5293424038
-  end: 5629.6315646260
+  end: 5629.631564626
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.969979
   - lab: k
     dur: 0.025
   - lab: s
@@ -74069,11 +74069,11 @@
 - prompt: text_0618
   text: ville aux minarets de terre rouge, on ne s'attendait pas à un tel cadeau .
   date: 2013-06-28T20:45:48Z
-  start: 5629.6315646260
+  start: 5629.631564626
   end: 5637.4799092972
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.934979
   - lab: v
     dur: 0.035
   - lab: i
@@ -74157,7 +74157,7 @@
   end: 5647.5573696147
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.059979
   - lab: i
     dur: 0.14
   - lab: a
@@ -74289,7 +74289,7 @@
   end: 5655.4985941045
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.779979
   - lab: l
     dur: 0.135
   - lab: '@'
@@ -74387,7 +74387,7 @@
   end: 5663.7648979594
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.599979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -74481,7 +74481,7 @@
   end: 5671.9383219957
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.259958
   - lab: 9~
     dur: 0.165
   - lab: S
@@ -74587,7 +74587,7 @@
   end: 5681.1798639458
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.434979
   - lab: i
     dur: 0.115
   - lab: n
@@ -74699,7 +74699,7 @@
   end: 5690.4214058959
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.589979
   - lab: p
     dur: 0.015
   - lab: a
@@ -74819,7 +74819,7 @@
   end: 5697.6660317462
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.924979
   - lab: Z
     dur: 0.13
   - lab: E
@@ -74911,7 +74911,7 @@
   end: 5706.4431746033
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.219979
   - lab: R
     dur: 0.11
   - lab: a
@@ -75021,7 +75021,7 @@
   end: 5716.0097959185
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.779979
   - lab: l
     dur: 0.12
   - lab: e
@@ -75153,7 +75153,7 @@
   end: 5725.9479365081
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.219979
   - lab: a~
     dur: 0.16
   - lab: E
@@ -75301,7 +75301,7 @@
   end: 5736.0253968256
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.744979
   - lab: i
     dur: 0.115
   - lab: R
@@ -75414,10 +75414,10 @@
   text: des navires de guerre, des sous-marins dont certains nucléaires mouillent aux côtés de chalutiers .
   date: 2013-06-28T20:45:50Z
   start: 5736.0253968256
-  end: 5745.7777777780
+  end: 5745.777777778
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.764979
   - lab: d
     dur: 0.155
   - lab: '@'
@@ -75527,11 +75527,11 @@
 - prompt: text_0631
   text: à lui, donc les gardes de nuit ou du week-end les piges dans des revues médicales .
   date: 2013-06-28T20:45:50Z
-  start: 5745.7777777780
+  start: 5745.777777778
   end: 5754.3227210887
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.984979
   - lab: a
     dur: 0.105
   - lab: l
@@ -75635,7 +75635,7 @@
   end: 5762.6354648529
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.024979
   - lab: e
     dur: 0.13
   - lab: t
@@ -75741,7 +75741,7 @@
   end: 5771.7841269844
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.684979
   - lab: 9~
     dur: 0.12
   - lab: b
@@ -75855,7 +75855,7 @@
   end: 5779.6324716556
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.584979
   - lab: o
     dur: 0.1
   - lab: d
@@ -75952,10 +75952,10 @@
   text: dans ce domaine comme dans d'autres, pourquoi accepterions-nous le dumping social .
   date: 2013-06-28T20:45:50Z
   start: 5779.6324716556
-  end: 5788.1309750570
+  end: 5788.130975057
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.029979
   - lab: d
     dur: 0.03
   - lab: a~
@@ -76067,11 +76067,11 @@
 - prompt: text_0636
   text: perte pour le trésor indien estimée par plusieurs experts financiers, plus de cinq mille millions de roupies .
   date: 2013-06-28T20:45:50Z
-  start: 5788.1309750570
+  start: 5788.130975057
   end: 5798.7192743767
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.549979
   - lab: p
     dur: 0.02
   - lab: E
@@ -76227,7 +76227,7 @@
   end: 5808.3323356012
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.379979
   - lab: l
     dur: 0.11
   - lab: '@'
@@ -76363,7 +76363,7 @@
   end: 5818.0847165536
   segments:
   - lab: _
-    dur: 0.56
+    dur: 0.884979
   - lab: t
     dur: 0.02
   - lab: R
@@ -76497,7 +76497,7 @@
   end: 5826.3510204085
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.559979
   - lab: m
     dur: 0.135
   - lab: e
@@ -76593,7 +76593,7 @@
   end: 5834.2922448983
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.959979
   - lab: l
     dur: 0.135
   - lab: a
@@ -76687,7 +76687,7 @@
   end: 5843.0693877554
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.869979
   - lab: i
     dur: 0.11
   - lab: l
@@ -76795,7 +76795,7 @@
   end: 5852.4502494334
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.729979
   - lab: e
     dur: 0.285
   - lab: _
@@ -76925,7 +76925,7 @@
   end: 5862.2026303858
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.094979
   - lab: l
     dur: 0.11
   - lab: a
@@ -77053,7 +77053,7 @@
   end: 5871.5834920638
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.759979
   - lab: e
     dur: 0.105
   - lab: R
@@ -77173,7 +77173,7 @@
   end: 5880.4535147395
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.994979
   - lab: i
     dur: 0.105
   - lab: l
@@ -77283,7 +77283,7 @@
   end: 5888.4876190479
   segments:
   - lab: _
-    dur: 0.65
+    dur: 1.074979
   - lab: l
     dur: 0.13
   - lab: '@'
@@ -77371,7 +77371,7 @@
   end: 5896.5217233563
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.799979
   - lab: d
     dur: 0.105
   - lab: e
@@ -77469,7 +77469,7 @@
   end: 5903.3948299323
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.509979
   - lab: E
     dur: 0.13
   - lab: l
@@ -77543,7 +77543,7 @@
   end: 5913.2400907033
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.609979
   - lab: i
     dur: 0.125
   - lab: f
@@ -77674,10 +77674,10 @@
   text: dans aucun parti on ne fait difficulté d'admettre un voleur s'il a du gosier et de l'estomac .
   date: 2013-06-28T20:45:52Z
   start: 5913.2400907033
-  end: 5922.5745124720
+  end: 5922.574512472
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.799979
   - lab: d
     dur: 0.135
   - lab: a~
@@ -77799,11 +77799,11 @@
 - prompt: text_0651
   text: acculé l'animal, charge l'un des hommes, lequel tire, blesse l'ours et roule bientôt dans la neige avec lui .
   date: 2013-06-28T20:45:52Z
-  start: 5922.5745124720
+  start: 5922.574512472
   end: 5933.1163718824
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.069979
   - lab: a
     dur: 0.075
   - lab: k
@@ -77941,7 +77941,7 @@
   end: 5939.8501587305
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.169979
   - lab: n
     dur: 0.07
   - lab: u
@@ -78013,7 +78013,7 @@
   end: 5947.6985034017
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.674979
   - lab: y
     dur: 0.075
   - lab: n
@@ -78117,7 +78117,7 @@
   end: 5956.5685260774
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.744958
   - lab: y
     dur: 0.06
   - lab: n
@@ -78230,10 +78230,10 @@
   text: des lits jumeaux sont deux lits semblables placés côte à côte .
   date: 2013-06-28T20:45:52Z
   start: 5956.5685260774
-  end: 5963.5345124720
+  end: 5963.534512472
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.589979
   - lab: d
     dur: 0.165
   - lab: e
@@ -78307,11 +78307,11 @@
 - prompt: text_0656
   text: il est français ou américain et vit à paris et dans le concorde .
   date: 2013-06-28T20:45:52Z
-  start: 5963.5345124720
+  start: 5963.534512472
   end: 5970.6398185944
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.654979
   - lab: i
     dur: 0.115
   - lab: l
@@ -78399,7 +78399,7 @@
   end: 5980.8565986398
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.579979
   - lab: p
     dur: 0.05
   - lab: u
@@ -78536,10 +78536,10 @@
   text: ces paysans n'ont nulle envie d'être catalogués comme ouvriers, ce qu'ils sont .
   date: 2013-06-28T20:45:52Z
   start: 5980.8565986398
-  end: 5989.1693424040
+  end: 5989.169342404
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.474979
   - lab: s
     dur: 0.14
   - lab: '@'
@@ -78637,11 +78637,11 @@
 - prompt: text_0659
   text: une entreprise voulant s'installer à l'extrême nord du pays pourrait bénéficier de tous les avantages prévus .
   date: 2013-06-28T20:45:54Z
-  start: 5989.1693424040
+  start: 5989.169342404
   end: 5999.7112018144
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.844979
   - lab: y
     dur: 0.09
   - lab: n
@@ -78787,7 +78787,7 @@
   end: 6009.0920634924
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.529979
   - lab: l
     dur: 0.145
   - lab: e
@@ -78905,7 +78905,7 @@
   end: 6016.1044897963
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.634979
   - lab: m
     dur: 0.135
   - lab: a
@@ -78989,7 +78989,7 @@
   end: 6024.7423129256
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.379979
   - lab: n
     dur: 0.14
   - lab: E
@@ -79107,7 +79107,7 @@
   end: 6031.9404988666
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.779979
   - lab: k
     dur: 0.015
   - lab: a~
@@ -79177,7 +79177,7 @@
   end: 6040.4854421773
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.759979
   - lab: d
     dur: 0.11
   - lab: w
@@ -79283,7 +79283,7 @@
   end: 6050.0520634925
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.589979
   - lab: l
     dur: 0.17
   - lab: E
@@ -79403,7 +79403,7 @@
   end: 6059.1542857147
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.559979
   - lab: a~
     dur: 0.085
   - lab: m
@@ -79520,10 +79520,10 @@
   text: mais ici, elles sont monnaie courante, explique un banquier new-yorkais .
   date: 2013-06-28T20:45:54Z
   start: 6059.1542857147
-  end: 6066.8633106580
+  end: 6066.863310658
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.464958
   - lab: m
     dur: 0.14
   - lab: E
@@ -79611,11 +79611,11 @@
 - prompt: text_0668
   text: pour arriver au niveau moyen de la fourchette, sinon au niveau supérieur, il en faudrait le double .
   date: 2013-06-28T20:45:54Z
-  start: 6066.8633106580
-  end: 6076.7085714290
+  start: 6066.863310658
+  end: 6076.708571429
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.424979
   - lab: p
     dur: 0.035
   - lab: u
@@ -79745,11 +79745,11 @@
 - prompt: text_0669
   text: je suis persuadé que nos problèmes doivent se résoudre de par la volonté individuelle des gens .
   date: 2013-06-28T20:45:54Z
-  start: 6076.7085714290
+  start: 6076.708571429
   end: 6086.1823129256
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.564979
   - lab: Z
     dur: 0.12
   - lab: '@'
@@ -79882,10 +79882,10 @@
   text: les quiproquos et les gags se succèdent à un rythme effréné .
   date: 2013-06-28T20:45:54Z
   start: 6086.1823129256
-  end: 6092.9625396830
+  end: 6092.962539683
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.749979
   - lab: l
     dur: 0.1
   - lab: e
@@ -79961,11 +79961,11 @@
 - prompt: text_0671
   text: pour la saison d'hiver, les stations affichent complet hormis, quelques semaines en janvier et en mars .
   date: 2013-06-28T20:45:54Z
-  start: 6092.9625396830
+  start: 6092.962539683
   end: 6103.0400000005
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.654979
   - lab: p
     dur: 0.04
   - lab: u
@@ -80087,7 +80087,7 @@
   end: 6111.9564625855
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.919979
   - lab: t
     dur: 0.05
   - lab: u
@@ -80199,7 +80199,7 @@
   end: 6119.4332879823
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.694979
   - lab: m
     dur: 0.155
   - lab: E
@@ -80292,10 +80292,10 @@
   text: à terme, elles doivent être capables de manipuler, voire d'entretenir une machine .
   date: 2013-06-28T20:45:54Z
   start: 6119.4332879823
-  end: 6127.9782312930
+  end: 6127.978231293
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.949979
   - lab: a
     dur: 0.155
   - lab: t
@@ -80411,11 +80411,11 @@
 - prompt: text_0675
   text: on a allumé de vertigineuses flammes et on se transforme en sapeurs-pompiers .
   date: 2013-06-28T20:45:56Z
-  start: 6127.9782312930
+  start: 6127.978231293
   end: 6136.0587755107
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.659979
   - lab: o~
     dur: 0.17
   - lab: a
@@ -80519,7 +80519,7 @@
   end: 6143.6284807261
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.549979
   - lab: Z
     dur: 0.155
   - lab: '@'
@@ -80623,7 +80623,7 @@
   end: 6150.5944671207
   segments:
   - lab: _
-    dur: 0.54
+    dur: 0.044979
   - lab: l
     dur: 0.125
   - lab: '@'
@@ -80723,7 +80723,7 @@
   end: 6160.5790476196
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.489979
   - lab: m
     dur: 0.125
   - lab: '@'
@@ -80863,7 +80863,7 @@
   end: 6169.9134693883
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.714979
   - lab: a~
     dur: 0.095
   - lab: m
@@ -80975,7 +80975,7 @@
   end: 6179.4800907035
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.714979
   - lab: i
     dur: 0.105
   - lab: l
@@ -81103,7 +81103,7 @@
   end: 6188.8609523815
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.614979
   - lab: s
     dur: 0.15
   - lab: '@'
@@ -81229,7 +81229,7 @@
   end: 6196.4306575969
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.929979
   - lab: i
     dur: 0.155
   - lab: l
@@ -81313,7 +81313,7 @@
   end: 6204.8362811797
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.224979
   - lab: i
     dur: 0.145
   - lab: a
@@ -81419,7 +81419,7 @@
   end: 6211.8487074836
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.074979
   - lab: S
     dur: 0.125
   - lab: a
@@ -81495,7 +81495,7 @@
   end: 6220.1150113385
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.659979
   - lab: l
     dur: 0.125
   - lab: '@'
@@ -81609,7 +81609,7 @@
   end: 6229.8209523816
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.584979
   - lab: o
     dur: 0.09
   - lab: S
@@ -81747,7 +81747,7 @@
   end: 6238.7374149666
   segments:
   - lab: _
-    dur: 0.57
+    dur: 0.574979
   - lab: f
     dur: 0.125
   - lab: a
@@ -81855,7 +81855,7 @@
   end: 6245.7034013612
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.494979
   - lab: a
     dur: 0.105
   - lab: l
@@ -81941,7 +81941,7 @@
   end: 6254.4805442183
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.679979
   - lab: m
     dur: 0.05
   - lab: E
@@ -82055,7 +82055,7 @@
   end: 6264.6508843544
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.894979
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -82197,7 +82197,7 @@
   end: 6273.0565079372
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.714979
   - lab: a
     dur: 0.105
   - lab: d
@@ -82291,7 +82291,7 @@
   end: 6282.2980498873
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.989979
   - lab: v
     dur: 0.05
   - lab: w
@@ -82421,7 +82421,7 @@
   end: 6291.2145124723
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.674979
   - lab: a~
     dur: 0.095
   - lab: f
@@ -82535,7 +82535,7 @@
   end: 6301.2919727898
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.219979
   - lab: k
     dur: 0.055
   - lab: '@'
@@ -82654,10 +82654,10 @@
   text: bref les mathématiques ne sont-elles pas au moins en partie un reflet de la structure cérébrale .
   date: 2013-06-28T20:45:58Z
   start: 6301.2919727898
-  end: 6310.8585941050
+  end: 6310.858594105
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.374979
   - lab: b
     dur: 0.105
   - lab: R
@@ -82781,11 +82781,11 @@
 - prompt: text_0696
   text: mais la musique avant toute chose peut-elle être réduite au simple rôle d'écran fût-il amical .
   date: 2013-06-28T20:45:58Z
-  start: 6310.8585941050
-  end: 6320.2394557830
+  start: 6310.858594105
+  end: 6320.239455783
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.944979
   - lab: m
     dur: 0.12
   - lab: E
@@ -82903,11 +82903,11 @@
 - prompt: text_0697
   text: reste un dernier impératif le domaine essentiel des libertés .
   date: 2013-06-28T20:45:58Z
-  start: 6320.2394557830
-  end: 6327.1125623590
+  start: 6320.239455783
+  end: 6327.112562359
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.559979
   - lab: R
     dur: 0.13
   - lab: E
@@ -82999,11 +82999,11 @@
 - prompt: text_0698
   text: c'est la france qui a inventé pour l'europe la notion ô combien féconde et réaliste de communauté .
   date: 2013-06-28T20:45:58Z
-  start: 6327.1125623590
+  start: 6327.112562359
   end: 6336.8185034021
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.584979
   - lab: k
     dur: 0.03
   - lab: s
@@ -83137,7 +83137,7 @@
   end: 6345.4563265314
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.634979
   - lab: 9~
     dur: 0.15
   - lab: a
@@ -83253,7 +83253,7 @@
   end: 6354.7907483001
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.599979
   - lab: d
     dur: 0.155
   - lab: a~
@@ -83368,10 +83368,10 @@
   text: on n'avait jamais vu un tel objet flottant ocre avec son kiosque coupé pour pouvoir passer sous les ponts .
   date: 2013-06-28T20:45:58Z
   start: 6354.7907483001
-  end: 6365.1004081640
+  end: 6365.100408164
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.104979
   - lab: o~
     dur: 0.115
   - lab: n
@@ -83501,11 +83501,11 @@
 - prompt: text_0702
   text: et on envisage une ouverture de crédits de l'ordre de trois virgule cinq milliards de francs .
   date: 2013-06-28T20:45:58Z
-  start: 6365.1004081640
+  start: 6365.100408164
   end: 6374.4348299327
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.104979
   - lab: e
     dur: 0.12
   - lab: o~
@@ -83631,7 +83631,7 @@
   end: 6383.5834920642
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.719979
   - lab: a~
     dur: 0.095
   - lab: v
@@ -83751,7 +83751,7 @@
   end: 6392.4535147399
   segments:
   - lab: _
-    dur: 0.625
+    dur: 1.049979
   - lab: s
     dur: 0.185
   - lab: E
@@ -83863,7 +83863,7 @@
   end: 6402.9024943317
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.784979
   - lab: i
     dur: 0.105
   - lab: l
@@ -84003,7 +84003,7 @@
   end: 6412.3762358283
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.784979
   - lab: i
     dur: 0.095
   - lab: l
@@ -84125,7 +84125,7 @@
   end: 6422.6858956922
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.134979
   - lab: i
     dur: 0.17
   - lab: l
@@ -84251,7 +84251,7 @@
   end: 6430.5342403634
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.924979
   - lab: d
     dur: 0.16
   - lab: '0'
@@ -84347,7 +84347,7 @@
   end: 6439.0327437648
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.444979
   - lab: o~
     dur: 0.105
   - lab: s
@@ -84449,7 +84449,7 @@
   end: 6448.2742857149
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.059979
   - lab: t
     dur: 0.015
   - lab: a
@@ -84577,7 +84577,7 @@
   end: 6456.3548299326
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.924979
   - lab: a
     dur: 0.105
   - lab: v
@@ -84687,7 +84687,7 @@
   end: 6465.7356916106
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.899979
   - lab: S
     dur: 0.12
   - lab: a
@@ -84805,7 +84805,7 @@
   end: 6475.9060317467
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.089979
   - lab: l
     dur: 0.165
   - lab: 9~
@@ -84941,7 +84941,7 @@
   end: 6486.3550113385
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.579979
   - lab: d
     dur: 0.09
   - lab: y
@@ -85079,7 +85079,7 @@
   end: 6495.3643537421
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.614979
   - lab: l
     dur: 0.13
   - lab: a
@@ -85197,7 +85197,7 @@
   end: 6504.9309750573
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.404979
   - lab: '0'
     dur: 0.09
   - lab: a
@@ -85325,7 +85325,7 @@
   end: 6515.2406349212
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.964979
   - lab: l
     dur: 0.13
   - lab: '@'
@@ -85461,7 +85461,7 @@
   end: 6524.5750566899
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.814979
   - lab: Z
     dur: 0.155
   - lab: '@'
@@ -85589,7 +85589,7 @@
   end: 6532.2376417239
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.079979
   - lab: i
     dur: 0.245
   - lab: a
@@ -85669,7 +85669,7 @@
   end: 6541.3398639461
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.789979
   - lab: E
     dur: 0.085
   - lab: l
@@ -85793,7 +85793,7 @@
   end: 6550.4885260776
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.914979
   - lab: s
     dur: 0.15
   - lab: '@'
@@ -85905,7 +85905,7 @@
   end: 6557.8260317465
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.534979
   - lab: d
     dur: 0.03
   - lab: a~
@@ -85987,7 +85987,7 @@
   end: 6564.6991383225
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.624979
   - lab: i
     dur: 0.08
   - lab: l
@@ -86067,7 +86067,7 @@
   end: 6572.5474829937
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.909979
   - lab: a
     dur: 0.075
   - lab: m
@@ -86169,7 +86169,7 @@
   end: 6582.3927437647
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.664979
   - lab: m
     dur: 0.12
   - lab: E
@@ -86309,7 +86309,7 @@
   end: 6589.3587301593
   segments:
   - lab: _
-    dur: 0.575
+    dur: 1.189979
   - lab: s
     dur: 0.18
   - lab: a
@@ -86398,10 +86398,10 @@
   text: dix secondes plus tard, un vieux monsieur, un grand-père comme on les aime, fait son entrée .
   date: 2013-06-28T20:46:00Z
   start: 6589.3587301593
-  end: 6598.6931519280
+  end: 6598.693151928
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.554979
   - lab: d
     dur: 0.16
   - lab: i
@@ -86505,11 +86505,11 @@
 - prompt: text_0728
   text: a t'il vraiment besoin de se distinguer de ses camarades par un voile ou d'être privé de gymnastique .
   date: 2013-06-28T20:46:00Z
-  start: 6598.6931519280
+  start: 6598.693151928
   end: 6608.6312925176
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.919979
   - lab: a
     dur: 0.145
   - lab: i
@@ -86647,7 +86647,7 @@
   end: 6618.7087528351
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.709958
   - lab: s
     dur: 0.175
   - lab: o~
@@ -86781,7 +86781,7 @@
   end: 6628.4611337875
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.994979
   - lab: i
     dur: 0.115
   - lab: l
@@ -86914,10 +86914,10 @@
   text: et je ne me résigne pas à ce que tous n'y aient pas accès, n'y aient pas tout accès .
   date: 2013-06-28T20:46:00Z
   start: 6628.4611337875
-  end: 6637.1453968260
+  end: 6637.145396826
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.459979
   - lab: E
     dur: 0.125
   - lab: Z
@@ -87019,11 +87019,11 @@
 - prompt: text_0732
   text: la mentalité de nouveaux riches, de parvenus ressort, de nombreuses réponses .
   date: 2013-06-28T20:46:02Z
-  start: 6637.1453968260
+  start: 6637.145396826
   end: 6645.3188208623
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.804979
   - lab: l
     dur: 0.065
   - lab: a
@@ -87129,7 +87129,7 @@
   end: 6656.0000000006
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.884979
   - lab: y
     dur: 0.18
   - lab: o
@@ -87270,10 +87270,10 @@
   text: c'était pourtant une bonne nouvelle, l'inflation, on le sait, ronge les monnaies .
   date: 2013-06-28T20:46:02Z
   start: 6656.0000000006
-  end: 6664.4985034020
+  end: 6664.498503402
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.589979
   - lab: k
     dur: 0.155
   - lab: e
@@ -87367,11 +87367,11 @@
 - prompt: text_0735
   text: au niveau des prises de commandes, le niveau attendu était identique à celui de l'année précédente .
   date: 2013-06-28T20:46:02Z
-  start: 6664.4985034020
-  end: 6674.3437641730
+  start: 6664.498503402
+  end: 6674.343764173
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.764979
   - lab: o
     dur: 0.08
   - lab: n
@@ -87495,11 +87495,11 @@
 - prompt: text_0736
   text: d'autre part, elle réclame, au niveau national, une approche globale et cohérente .
   date: 2013-06-28T20:46:02Z
-  start: 6674.3437641730
+  start: 6674.343764173
   end: 6682.8887074837
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.449979
   - lab: d
     dur: 0.105
   - lab: o
@@ -87613,7 +87613,7 @@
   end: 6690.8299319735
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.634979
   - lab: s
     dur: 0.155
   - lab: '@'
@@ -87711,7 +87711,7 @@
   end: 6699.7463945585
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.589979
   - lab: t
     dur: 0.045
   - lab: u
@@ -87839,7 +87839,7 @@
   end: 6708.0591383227
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.669979
   - lab: p
     dur: 0.015
   - lab: u
@@ -87929,7 +87929,7 @@
   end: 6716.3718820869
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.694979
   - lab: v
     dur: 0.175
   - lab: '0'
@@ -88039,7 +88039,7 @@
   end: 6724.6381859418
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.814979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -88147,7 +88147,7 @@
   end: 6732.2078911572
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.659979
   - lab: s
     dur: 0.135
   - lab: '@'
@@ -88237,7 +88237,7 @@
   end: 6742.7497505676
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.794979
   - lab: Z
     dur: 0.17
   - lab: '@'
@@ -88371,7 +88371,7 @@
   end: 6750.1801360551
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.404979
   - lab: s
     dur: 0.13
   - lab: e
@@ -88463,7 +88463,7 @@
   end: 6758.7250793658
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.769979
   - lab: f
     dur: 0.215
   - lab: i
@@ -88565,7 +88565,7 @@
   end: 6767.5951020415
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.534979
   - lab: k
     dur: 0.02
   - lab: s
@@ -88673,7 +88673,7 @@
   end: 6778.1369614519
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.589979
   - lab: d
     dur: 0.165
   - lab: a~
@@ -88807,7 +88807,7 @@
   end: 6786.7747845812
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.724979
   - lab: l
     dur: 0.075
   - lab: e
@@ -88921,7 +88921,7 @@
   end: 6795.7841269848
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.649979
   - lab: d
     dur: 0.13
   - lab: a~
@@ -89037,7 +89037,7 @@
   end: 6805.3971882093
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.694979
   - lab: s
     dur: 0.16
   - lab: a~
@@ -89151,7 +89151,7 @@
   end: 6812.9668934247
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.874979
   - lab: a
     dur: 0.09
   - lab: v
@@ -89243,7 +89243,7 @@
   end: 6823.1372335608
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.634979
   - lab: d
     dur: 0.125
   - lab: '@'
@@ -89387,7 +89387,7 @@
   end: 6833.0753741504
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.639979
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -89513,7 +89513,7 @@
   end: 6840.6450793658
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.694979
   - lab: a~
     dur: 0.13
   - lab: o
@@ -89607,7 +89607,7 @@
   end: 6848.4469841277
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.549979
   - lab: l
     dur: 0.105
   - lab: e
@@ -89707,7 +89707,7 @@
   end: 6857.3634467127
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.369979
   - lab: l
     dur: 0.105
   - lab: a
@@ -89833,7 +89833,7 @@
   end: 6864.3758730166
   segments:
   - lab: _
-    dur: 0.765
+    dur: 0.679979
   - lab: l
     dur: 0.13
   - lab: '@'
@@ -89923,7 +89923,7 @@
   end: 6871.8526984134
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.704979
   - lab: l
     dur: 0.105
   - lab: a
@@ -90015,7 +90015,7 @@
   end: 6881.2335600914
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.914979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -90143,7 +90143,7 @@
   end: 6891.4503401368
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.544979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -90287,7 +90287,7 @@
   end: 6901.9921995472
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.719979
   - lab: Z
     dur: 0.145
   - lab: '@'
@@ -90435,7 +90435,7 @@
   end: 6911.8374603182
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.514979
   - lab: S
     dur: 0.14
   - lab: a
@@ -90563,7 +90563,7 @@
   end: 6918.8498866221
   segments:
   - lab: _
-    dur: 0.625
+    dur: 1.209979
   - lab: p
     dur: 0.025
   - lab: u
@@ -90655,7 +90655,7 @@
   end: 6927.2555102049
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.694979
   - lab: m
     dur: 0.125
   - lab: E
@@ -90755,7 +90755,7 @@
   end: 6935.0574149668
   segments:
   - lab: _
-    dur: 0.6
+    dur: 1.064979
   - lab: s
     dur: 0.195
   - lab: i
@@ -90859,7 +90859,7 @@
   end: 6944.7633560099
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.299979
   - lab: d
     dur: 0.135
   - lab: '@'
@@ -90985,7 +90985,7 @@
   end: 6954.9801360553
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.884979
   - lab: l
     dur: 0.095
   - lab: a
@@ -91121,7 +91121,7 @@
   end: 6962.2247619056
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.834979
   - lab: a~
     dur: 0.155
   - lab: p
@@ -91201,7 +91201,7 @@
   end: 6969.6551473931
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.714979
   - lab: s
     dur: 0.27
   - lab: i
@@ -91290,10 +91290,10 @@
   text: il leur faut maintenant le transformer en un véritable espace de développement .
   date: 2013-06-28T20:46:04Z
   start: 6969.6551473931
-  end: 6977.9214512480
+  end: 6977.921451248
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.764979
   - lab: i
     dur: 0.08
   - lab: l
@@ -91403,11 +91403,11 @@
 - prompt: text_0771
   text: elle marque juste deux petites pauses, gorge serrée à quelques secondes de la fin .
   date: 2013-06-28T20:46:04Z
-  start: 6977.9214512480
+  start: 6977.921451248
   end: 6986.4663945587
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.599979
   - lab: E
     dur: 0.08
   - lab: l
@@ -91515,7 +91515,7 @@
   end: 6995.8472562367
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.704979
   - lab: n
     dur: 0.065
   - lab: u
@@ -91629,7 +91629,7 @@
   end: 7003.5098412707
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.514979
   - lab: p
     dur: 0.025
   - lab: u
@@ -91719,7 +91719,7 @@
   end: 7012.8907029487
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.509979
   - lab: a
     dur: 0.1
   - lab: l
@@ -91837,7 +91837,7 @@
   end: 7019.8566893433
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.719979
   - lab: l
     dur: 0.125
   - lab: '@'
@@ -91923,7 +91923,7 @@
   end: 7027.7050340145
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.889979
   - lab: s
     dur: 0.215
   - lab: i
@@ -92021,7 +92021,7 @@
   end: 7036.7143764181
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.049979
   - lab: n
     dur: 0.115
   - lab: u
@@ -92129,7 +92129,7 @@
   end: 7043.4481632662
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.034979
   - lab: 9~
     dur: 0.105
   - lab: f
@@ -92217,7 +92217,7 @@
   end: 7052.8290249442
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.904979
   - lab: s
     dur: 0.14
   - lab: i
@@ -92331,7 +92331,7 @@
   end: 7062.6742857152
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.699979
   - lab: p
     dur: 0.105
   - lab: w
@@ -92463,7 +92463,7 @@
   end: 7072.2873469397
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.599979
   - lab: a~
     dur: 0.165
   - lab: a
@@ -92584,10 +92584,10 @@
   text: rien ne devrait plus venir ralentir la création d'une europe politiquement associée .
   date: 2013-06-28T20:46:06Z
   start: 7072.2873469397
-  end: 7080.9251700690
+  end: 7080.925170069
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.759958
   - lab: R
     dur: 0.095
   - lab: j
@@ -92707,11 +92707,11 @@
 - prompt: text_0783
   text: de même, j'affirme qu'aujourd'hui, ce match nul ne remet rien en cause .
   date: 2013-06-28T20:46:06Z
-  start: 7080.9251700690
+  start: 7080.925170069
   end: 7088.6341950123
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.274979
   - lab: d
     dur: 0.135
   - lab: '@'
@@ -92807,7 +92807,7 @@
   end: 7098.6187755112
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.589979
   - lab: p
     dur: 0.015
   - lab: u
@@ -92937,7 +92937,7 @@
   end: 7106.4206802731
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.714958
   - lab: s
     dur: 0.135
   - lab: '0'
@@ -93033,7 +93033,7 @@
   end: 7116.1730612255
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.844979
   - lab: i
     dur: 0.13
   - lab: n
@@ -93161,7 +93161,7 @@
   end: 7124.7180045362
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.819979
   - lab: l
     dur: 0.1
   - lab: e
@@ -93275,7 +93275,7 @@
   end: 7132.1483900237
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.529979
   - lab: 9~
     dur: 0.12
   - lab: b
@@ -93375,7 +93375,7 @@
   end: 7139.9967346949
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.469979
   - lab: d
     dur: 0.15
   - lab: e
@@ -93469,7 +93469,7 @@
   end: 7149.8419954659
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.419979
   - lab: e
     dur: 0.075
   - lab: g
@@ -93591,7 +93591,7 @@
   end: 7157.6439002278
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.534979
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -93701,7 +93701,7 @@
   end: 7167.1176417244
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.689979
   - lab: l
     dur: 0.085
   - lab: a
@@ -93835,7 +93835,7 @@
   end: 7176.9629024954
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.704979
   - lab: l
     dur: 0.065
   - lab: '@'
@@ -93959,7 +93959,7 @@
   end: 7184.1610884364
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.674979
   - lab: s
     dur: 0.13
   - lab: i
@@ -94055,7 +94055,7 @@
   end: 7191.8236734704
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.799979
   - lab: a~
     dur: 0.1
   - lab: m
@@ -94152,10 +94152,10 @@
   text: l'horizon, la ville, l'averse adoptaient la couleur des nuages chargés d'une eau intarissable .
   date: 2013-06-28T20:46:06Z
   start: 7191.8236734704
-  end: 7201.2974149670
+  end: 7201.297414967
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.504979
   - lab: l
     dur: 0.105
   - lab: '0'
@@ -94275,11 +94275,11 @@
 - prompt: text_0797
   text: la seule branche du groupe qui ait amélioré ses résultats est celle des poids lourds .
   date: 2013-06-28T20:46:06Z
-  start: 7201.2974149670
+  start: 7201.297414967
   end: 7209.9816780055
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.799979
   - lab: l
     dur: 0.125
   - lab: a
@@ -94386,10 +94386,10 @@
   text: gorbatchev doit jouer la carte de l'allemagne de l'est avant que son jeu se désintègre entre ses mains .
   date: 2013-06-28T20:46:06Z
   start: 7209.9816780055
-  end: 7220.0591383230
+  end: 7220.059138323
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.659979
   - lab: g
     dur: 0.125
   - lab: '0'
@@ -94525,11 +94525,11 @@
 - prompt: text_0799
   text: deux travestis mettent à mal un vieux gentil pédéraste qui rôde par là .
   date: 2013-06-28T20:46:06Z
-  start: 7220.0591383230
-  end: 7227.7217233570
+  start: 7220.059138323
+  end: 7227.721723357
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.934979
   - lab: d
     dur: 0.12
   - lab: '@'
@@ -94623,11 +94623,11 @@
 - prompt: text_0800
   text: tous les peuples primitifs ont admis que le fou est habité par un démon .
   date: 2013-06-28T20:46:08Z
-  start: 7227.7217233570
+  start: 7227.721723357
   end: 7235.4307483003
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.994979
   - lab: t
     dur: 0.035
   - lab: u
@@ -94729,7 +94729,7 @@
   end: 7243.7434920645
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.589979
   - lab: s
     dur: 0.16
   - lab: '@'
@@ -94839,7 +94839,7 @@
   end: 7251.6847165543
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.799979
   - lab: d
     dur: 0.095
   - lab: e
@@ -94931,7 +94931,7 @@
   end: 7258.6507029489
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.754979
   - lab: l
     dur: 0.165
   - lab: a
@@ -95013,7 +95013,7 @@
   end: 7266.0810884364
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.779979
   - lab: y
     dur: 0.08
   - lab: n
@@ -95107,7 +95107,7 @@
   end: 7273.5579138332
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.534979
   - lab: E
     dur: 0.065
   - lab: f
@@ -95191,7 +95191,7 @@
   end: 7280.2917006813
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.679979
   - lab: e
     dur: 0.08
   - lab: p
@@ -95265,7 +95265,7 @@
   end: 7289.9047619058
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.589979
   - lab: o
     dur: 0.095
   - lab: Z
@@ -95391,7 +95391,7 @@
   end: 7300.3073015883
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.639979
   - lab: i
     dur: 0.105
   - lab: l
@@ -95531,7 +95531,7 @@
   end: 7307.3197278922
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.099979
   - lab: E
     dur: 0.09
   - lab: o
@@ -95613,7 +95613,7 @@
   end: 7316.3290702958
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.754979
   - lab: Z
     dur: 0.11
   - lab: y
@@ -95722,10 +95722,10 @@
   text: les chevaux, au moment de l'effort, doivent garder leur ligne et terminer droit .
   date: 2013-06-28T20:46:08Z
   start: 7316.3290702958
-  end: 7324.6418140600
+  end: 7324.64181406
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.629979
   - lab: l
     dur: 0.09
   - lab: e
@@ -95827,11 +95827,11 @@
 - prompt: text_0812
   text: a chaque représentation, un fauteuil d'orchestre lui est réservé .
   date: 2013-06-28T20:46:08Z
-  start: 7324.6418140600
+  start: 7324.64181406
   end: 7331.8864399103
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.629979
   - lab: a
     dur: 0.095
   - lab: S
@@ -95931,7 +95931,7 @@
   end: 7341.3601814069
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.709979
   - lab: k
     dur: 0.04
   - lab: '0'
@@ -96034,10 +96034,10 @@
   text: pendant quatre jours, on s'est beaucoup bousculé autour des traditionnelles séances de signature .
   date: 2013-06-28T20:46:08Z
   start: 7341.3601814069
-  end: 7351.0661224500
+  end: 7351.06612245
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.334979
   - lab: p
     dur: 0.015
   - lab: a~
@@ -96159,11 +96159,11 @@
 - prompt: text_0815
   text: pourtant ce fut, à ma plus complète surprise, un grand succès commercial .
   date: 2013-06-28T20:46:08Z
-  start: 7351.0661224500
+  start: 7351.06612245
   end: 7358.9144671212
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.654979
   - lab: p
     dur: 0.03
   - lab: u
@@ -96271,7 +96271,7 @@
   end: 7366.2519727901
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.614979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -96363,7 +96363,7 @@
   end: 7373.4965986404
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.829979
   - lab: a
     dur: 0.105
   - lab: v
@@ -96461,7 +96461,7 @@
   end: 7381.9022222232
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.564979
   - lab: d
     dur: 0.175
   - lab: '@'
@@ -96563,7 +96563,7 @@
   end: 7388.6824489806
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.839979
   - lab: t
     dur: 0.025
   - lab: y
@@ -96633,7 +96633,7 @@
   end: 7397.3202721099
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.954979
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -96751,7 +96751,7 @@
   end: 7407.3977324274
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.929979
   - lab: s
     dur: 0.145
   - lab: e
@@ -96871,7 +96871,7 @@
   end: 7416.6392743775
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.699979
   - lab: l
     dur: 0.135
   - lab: '@'
@@ -96993,7 +96993,7 @@
   end: 7424.4876190487
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.124979
   - lab: o~
     dur: 0.135
   - lab: R
@@ -97080,10 +97080,10 @@
   text: une éphéméride est un calendrier dont on retire chaque jour un feuillet .
   date: 2013-06-28T20:46:08Z
   start: 7424.4876190487
-  end: 7432.1966439920
+  end: 7432.196643992
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.564979
   - lab: y
     dur: 0.085
   - lab: n
@@ -97175,11 +97175,11 @@
 - prompt: text_0825
   text: comme chez les p d g, le secret régnait sur les chiffres généralement exagérés par forfanterie .
   date: 2013-06-28T20:46:08Z
-  start: 7432.1966439920
+  start: 7432.196643992
   end: 7441.7632653072
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.019979
   - lab: k
     dur: 0.015
   - lab: '0'
@@ -97321,7 +97321,7 @@
   end: 7449.4722902505
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.789979
   - lab: s
     dur: 0.165
   - lab: '@'
@@ -97412,10 +97412,10 @@
   text: ils attendent et espèrent qu'au moins l'un d'eux fera le premier pas en se portant officiellement candidat .
   date: 2013-06-28T20:46:10Z
   start: 7449.4722902505
-  end: 7459.8748299330
+  end: 7459.874829933
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.729979
   - lab: i
     dur: 0.235
   - lab: l
@@ -97541,11 +97541,11 @@
 - prompt: text_0828
   text: pays non gouverné et ingouvernable pensera l'observateur superficiel .
   date: 2013-06-28T20:46:10Z
-  start: 7459.8748299330
+  start: 7459.874829933
   end: 7467.3516553298
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.009979
   - lab: p
     dur: 0.015
   - lab: e
@@ -97659,7 +97659,7 @@
   end: 7476.5931972799
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.954979
   - lab: l
     dur: 0.14
   - lab: '@'
@@ -97783,7 +97783,7 @@
   end: 7485.5096598649
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.069979
   - lab: 9~
     dur: 0.125
   - lab: f
@@ -97909,7 +97909,7 @@
   end: 7494.0546031756
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.419979
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -98009,7 +98009,7 @@
   end: 7502.6924263049
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.514979
   - lab: l
     dur: 0.075
   - lab: e
@@ -98129,7 +98129,7 @@
   end: 7510.8658503412
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.769979
   - lab: Z
     dur: 0.17
   - lab: a
@@ -98235,7 +98235,7 @@
   end: 7518.9463945589
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.754979
   - lab: p
     dur: 0.055
   - lab: u
@@ -98337,7 +98337,7 @@
   end: 7528.0950566904
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.554979
   - lab: d
     dur: 0.15
   - lab: '@'
@@ -98451,7 +98451,7 @@
   end: 7537.7081179149
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.749979
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -98583,7 +98583,7 @@
   end: 7547.7855782324
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.969979
   - lab: E
     dur: 0.06
   - lab: i
@@ -98709,7 +98709,7 @@
   end: 7555.4946031757
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.339979
   - lab: m
     dur: 0.105
   - lab: E
@@ -98805,7 +98805,7 @@
   end: 7564.7361451258
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.819979
   - lab: '0'
     dur: 0.09
   - lab: n
@@ -98919,7 +98919,7 @@
   end: 7574.4420861689
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.589979
   - lab: k
     dur: 0.035
   - lab: '0'
@@ -99057,7 +99057,7 @@
   end: 7584.0551473934
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754958
   - lab: l
     dur: 0.1
   - lab: a
@@ -99187,7 +99187,7 @@
   end: 7592.4607709762
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.949979
   - lab: l
     dur: 0.055
   - lab: a
@@ -99311,7 +99311,7 @@
   end: 7603.0490702959
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.524979
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -99457,7 +99457,7 @@
   end: 7612.6156916111
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.574979
   - lab: a~
     dur: 0.1
   - lab: m
@@ -99577,7 +99577,7 @@
   end: 7621.1606349218
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.679979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -99699,7 +99699,7 @@
   end: 7630.8665759649
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.594979
   - lab: p
     dur: 0.025
   - lab: u
@@ -99833,7 +99833,7 @@
   end: 7637.6468027223
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.704979
   - lab: t
     dur: 0.04
   - lab: e
@@ -99909,7 +99909,7 @@
   end: 7647.2134240375
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.889979
   - lab: '0'
     dur: 0.085
   - lab: n
@@ -100033,7 +100033,7 @@
   end: 7655.3868480738
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.494979
   - lab: l
     dur: 0.095
   - lab: e
@@ -100124,10 +100124,10 @@
   text: j'avais besoin d'une autre ambiance pour travailler d'autres moyens aussi .
   date: 2013-06-28T20:46:12Z
   start: 7655.3868480738
-  end: 7663.2351927450
+  end: 7663.235192745
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.179979
   - lab: Z
     dur: 0.155
   - lab: a
@@ -100219,11 +100219,11 @@
 - prompt: text_0851
   text: mercredi, à wall street, le dow-jones a chuté de trente trois points .
   date: 2013-06-28T20:46:12Z
-  start: 7663.2351927450
+  start: 7663.235192745
   end: 7670.8048979604
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.489979
   - lab: m
     dur: 0.025
   - lab: E
@@ -100327,7 +100327,7 @@
   end: 7679.5820408175
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.664979
   - lab: a~
     dur: 0.12
   - lab: R
@@ -100430,10 +100430,10 @@
   text: un plan d'occupation des sols se modifie aisément, surtout lorsque les terres ne sont plus exploitées .
   date: 2013-06-28T20:46:12Z
   start: 7679.5820408175
-  end: 7689.6595011350
+  end: 7689.659501135
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.589979
   - lab: y
     dur: 0.115
   - lab: p
@@ -100569,11 +100569,11 @@
 - prompt: text_0854
   text: prosélytes partagent bientôt cette fringale et un concours s'organise pour pimenter le tout .
   date: 2013-06-28T20:46:12Z
-  start: 7689.6595011350
+  start: 7689.659501135
   end: 7698.9010430851
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.544979
   - lab: p
     dur: 0.015
   - lab: R
@@ -100693,7 +100693,7 @@
   end: 7706.3314285726
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.024979
   - lab: i
     dur: 0.125
   - lab: l
@@ -100783,7 +100783,7 @@
   end: 7716.2695691622
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.004979
   - lab: i
     dur: 0.11
   - lab: l
@@ -100927,7 +100927,7 @@
   end: 7726.0219501146
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.519979
   - lab: k
     dur: 0.02
   - lab: a~
@@ -101057,7 +101057,7 @@
   end: 7732.9879365092
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.564979
   - lab: p
     dur: 0.03
   - lab: u
@@ -101135,7 +101135,7 @@
   end: 7740.8362811804
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.879979
   - lab: a
     dur: 0.25
   - lab: v
@@ -101243,7 +101243,7 @@
   end: 7749.3347845818
   segments:
   - lab: _
-    dur: 0.63
+    dur: 1.264979
   - lab: S
     dur: 0.19
   - lab: a
@@ -101349,7 +101349,7 @@
   end: 7758.8085260784
   segments:
   - lab: _
-    dur: 0.605
+    dur: 1.029979
   - lab: k
     dur: 0.035
   - lab: o~
@@ -101478,10 +101478,10 @@
   text: bien informées, elles savent jouer de toutes les facilités qui leur sont ainsi offertes .
   date: 2013-06-28T20:46:12Z
   start: 7758.8085260784
-  end: 7767.8178684820
+  end: 7767.817868482
   segments:
   - lab: _
-    dur: 0.71
+    dur: 0.844979
   - lab: b
     dur: 0.025
   - lab: j
@@ -101583,11 +101583,11 @@
 - prompt: text_0863
   text: devaient être établies aussi les listes des candidats au futur comité directeur liées aux motions .
   date: 2013-06-28T20:46:12Z
-  start: 7767.8178684820
+  start: 7767.817868482
   end: 7777.5238095251
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.724979
   - lab: d
     dur: 0.065
   - lab: '@'
@@ -101719,7 +101719,7 @@
   end: 7788.1121088448
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.934979
   - lab: l
     dur: 0.145
   - lab: '@'
@@ -101873,7 +101873,7 @@
   end: 7797.9573696158
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.839979
   - lab: s
     dur: 0.175
   - lab: i
@@ -102003,7 +102003,7 @@
   end: 7805.6663945591
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.809979
   - lab: s
     dur: 0.14
   - lab: a~
@@ -102109,7 +102109,7 @@
   end: 7813.6076190489
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.064979
   - lab: i
     dur: 0.1
   - lab: l
@@ -102209,7 +102209,7 @@
   end: 7822.2918820874
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.769979
   - lab: a
     dur: 0.09
   - lab: s
@@ -102319,7 +102319,7 @@
   end: 7832.8801814071
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.904979
   - lab: a~
     dur: 0.09
   - lab: m
@@ -102453,7 +102453,7 @@
   end: 7842.3539229037
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.979979
   - lab: s
     dur: 0.095
   - lab: y
@@ -102577,7 +102577,7 @@
   end: 7851.4561451259
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.999979
   - lab: a
     dur: 0.12
   - lab: p
@@ -102693,7 +102693,7 @@
   end: 7859.9546485273
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.859979
   - lab: S
     dur: 0.15
   - lab: a
@@ -102801,7 +102801,7 @@
   end: 7869.5677097518
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.564979
   - lab: m
     dur: 0.085
   - lab: E
@@ -102943,7 +102943,7 @@
   end: 7878.5770521554
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.684979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -103067,7 +103067,7 @@
   end: 7888.7473922915
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.924979
   - lab: a~
     dur: 0.15
   - lab: R
@@ -103190,10 +103190,10 @@
   text: les veuves, les veufs et veuves percevront une somme de quatre cent cinquante francs .
   date: 2013-06-28T20:46:14Z
   start: 7888.7473922915
-  end: 7897.4316553300
+  end: 7897.43165533
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.404979
   - lab: l
     dur: 0.11
   - lab: e
@@ -103289,11 +103289,11 @@
 - prompt: text_0877
   text: il est venimeux et sournois dès qu'un artiste menace sa gloire .
   date: 2013-06-28T20:46:14Z
-  start: 7897.4316553300
+  start: 7897.43165533
   end: 7904.5369614524
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.004979
   - lab: i
     dur: 0.16
   - lab: E
@@ -103383,7 +103383,7 @@
   end: 7913.8713832211
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.569979
   - lab: p
     dur: 0.065
   - lab: l
@@ -103501,7 +103501,7 @@
   end: 7923.1129251712
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.674979
   - lab: l
     dur: 0.155
   - lab: '@'
@@ -103613,7 +103613,7 @@
   end: 7933.7012244909
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.669979
   - lab: s
     dur: 0.165
   - lab: '9'
@@ -103751,7 +103751,7 @@
   end: 7942.2461678016
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.794979
   - lab: l
     dur: 0.125
   - lab: '@'
@@ -103853,7 +103853,7 @@
   end: 7950.1873922914
   segments:
   - lab: _
-    dur: 0.525
+    dur: 0.749979
   - lab: k
     dur: 0.065
   - lab: s
@@ -103955,7 +103955,7 @@
   end: 7958.6858956928
   segments:
   - lab: _
-    dur: 0.57
+    dur: 1.354979
   - lab: s
     dur: 0.11
   - lab: '@'
@@ -104059,7 +104059,7 @@
   end: 7965.7912018152
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.699979
   - lab: n
     dur: 0.18
   - lab: t
@@ -104137,7 +104137,7 @@
   end: 7974.3361451259
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.269979
   - lab: i
     dur: 0.135
   - lab: s
@@ -104239,7 +104239,7 @@
   end: 7981.9987301599
   segments:
   - lab: _
-    dur: 0.655
+    dur: 2.799979
   - lab: i
     dur: 0.035
   - lab: i
@@ -104316,10 +104316,10 @@
   text: alors, je me contente de dire, en vous faisant venir ici, dieu vous a accordé une seconde chance .
   date: 2013-06-28T20:46:14Z
   start: 7981.9987301599
-  end: 7991.7046712030
+  end: 7991.704671203
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.274979
   - lab: a
     dur: 0.125
   - lab: l
@@ -104449,11 +104449,11 @@
 - prompt: text_0888
   text: sur cette topographie reconstituée sont alors installés les divers éléments qui feront vivre la maquette .
   date: 2013-06-28T20:46:14Z
-  start: 7991.7046712030
+  start: 7991.704671203
   end: 8001.9214512484
   segments:
   - lab: _
-    dur: 0.575
+    dur: 0.819979
   - lab: s
     dur: 0.08
   - lab: y
@@ -104597,7 +104597,7 @@
   end: 8011.9989115659
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.794979
   - lab: i
     dur: 0.1
   - lab: l
@@ -104725,7 +104725,7 @@
   end: 8019.9401360557
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.024979
   - lab: i
     dur: 0.26
   - lab: l
@@ -104812,10 +104812,10 @@
   text: on meurt dans les hospices de vieillards parce qu'un coquelet n'était pas net .
   date: 2013-06-28T20:46:16Z
   start: 8019.9401360557
-  end: 8028.1135600920
+  end: 8028.113560092
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.729979
   - lab: o~
     dur: 0.1
   - lab: m
@@ -104905,11 +104905,11 @@
 - prompt: text_0892
   text: à minuit, la place aux alentours de l'église a été elle-même nettoyée avec violence .
   date: 2013-06-28T20:46:16Z
-  start: 8028.1135600920
+  start: 8028.113560092
   end: 8036.7978231305
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.599979
   - lab: a
     dur: 0.095
   - lab: m
@@ -105029,7 +105029,7 @@
   end: 8043.7638095251
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.189979
   - lab: l
     dur: 0.115
   - lab: e
@@ -105119,7 +105119,7 @@
   end: 8053.2375510217
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.634979
   - lab: k
     dur: 0.015
   - lab: '0'
@@ -105245,7 +105245,7 @@
   end: 8063.0828117927
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.519979
   - lab: R
     dur: 0.095
   - lab: j
@@ -105373,7 +105373,7 @@
   end: 8072.8351927451
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.149979
   - lab: i
     dur: 0.11
   - lab: l
@@ -105491,7 +105491,7 @@
   end: 8083.0055328812
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.979979
   - lab: l
     dur: 0.11
   - lab: a
@@ -105637,7 +105637,7 @@
   end: 8090.5752380966
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.904979
   - lab: d
     dur: 0.13
   - lab: E
@@ -105731,7 +105731,7 @@
   end: 8099.9560997746
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.709979
   - lab: m
     dur: 0.11
   - lab: E
@@ -105845,7 +105845,7 @@
   end: 8108.8725623596
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.594979
   - lab: l
     dur: 0.195
   - lab: '@'
@@ -105955,7 +105955,7 @@
   end: 8118.8107029492
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.084979
   - lab: E
     dur: 0.08
   - lab: l
@@ -106079,7 +106079,7 @@
   end: 8125.5444897973
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.479979
   - lab: l
     dur: 0.135
   - lab: e
@@ -106161,7 +106161,7 @@
   end: 8132.6497959197
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.529979
   - lab: p
     dur: 0.04
   - lab: u
@@ -106243,7 +106243,7 @@
   end: 8142.4021768721
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.519979
   - lab: b
     dur: 0.105
   - lab: R
@@ -106377,7 +106377,7 @@
   end: 8152.0152380966
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.889979
   - lab: l
     dur: 0.155
   - lab: '@'
@@ -106495,7 +106495,7 @@
   end: 8159.3527437655
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.574979
   - lab: n
     dur: 0.13
   - lab: '@'
@@ -106569,7 +106569,7 @@
   end: 8167.8512471669
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.774979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -106677,7 +106677,7 @@
   end: 8175.4209523823
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.714958
   - lab: s
     dur: 0.13
   - lab: i
@@ -106767,7 +106767,7 @@
   end: 8185.9628117927
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.644979
   - lab: l
     dur: 0.13
   - lab: e
@@ -106901,7 +106901,7 @@
   end: 8195.2043537428
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.499979
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -107015,7 +107015,7 @@
   end: 8203.8421768721
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.709958
   - lab: s
     dur: 0.15
   - lab: a
@@ -107132,10 +107132,10 @@
   text: si tu avais eu plus de jugeote, tu n'aurais pas fait cette bêtise .
   date: 2013-06-28T20:46:16Z
   start: 8203.8421768721
-  end: 8211.1796825410
+  end: 8211.179682541
   segments:
   - lab: _
-    dur: 0.575
+    dur: 0.699979
   - lab: s
     dur: 0.1
   - lab: i
@@ -107217,11 +107217,11 @@
 - prompt: text_0913
   text: l'action des habitants pouvant être favorable ou désastreuse, l'éducation joue un rôle fondamental .
   date: 2013-06-28T20:46:16Z
-  start: 8211.1796825410
-  end: 8221.0249433120
+  start: 8211.179682541
+  end: 8221.024943312
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.844979
   - lab: l
     dur: 0.1
   - lab: a
@@ -107355,11 +107355,11 @@
 - prompt: text_0914
   text: plus loin, philippe brocard s'écroulait, touché lui de neuf coups de couteau .
   date: 2013-06-28T20:46:16Z
-  start: 8221.0249433120
+  start: 8221.024943312
   end: 8229.1983673483
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.464979
   - lab: p
     dur: 0.115
   - lab: l
@@ -107459,7 +107459,7 @@
   end: 8239.7402267587
   segments:
   - lab: _
-    dur: 0.63
+    dur: 1.184979
   - lab: l
     dur: 0.11
   - lab: e
@@ -107593,7 +107593,7 @@
   end: 8246.7062131533
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.954979
   - lab: '0'
     dur: 0.085
   - lab: b
@@ -107685,7 +107685,7 @@
   end: 8253.8115192757
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.584979
   - lab: m
     dur: 0.14
   - lab: E
@@ -107773,7 +107773,7 @@
   end: 8263.2852607723
   segments:
   - lab: _
-    dur: 0.555
+    dur: 0.519979
   - lab: l
     dur: 0.14
   - lab: e
@@ -107889,7 +107889,7 @@
   end: 8271.6908843551
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.829979
   - lab: o~
     dur: 0.195
   - lab: E
@@ -107995,7 +107995,7 @@
   end: 8279.8643083914
   segments:
   - lab: _
-    dur: 0.72
+    dur: 0.874979
   - lab: m
     dur: 0.07
   - lab: E
@@ -108099,7 +108099,7 @@
   end: 8289.5702494345
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.539979
   - lab: t
     dur: 0.035
   - lab: u
@@ -108221,7 +108221,7 @@
   end: 8298.4867120195
   segments:
   - lab: _
-    dur: 0.695
+    dur: 0.529979
   - lab: m
     dur: 0.155
   - lab: '0'
@@ -108339,7 +108339,7 @@
   end: 8307.1245351488
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.904979
   - lab: s
     dur: 0.16
   - lab: a~
@@ -108440,10 +108440,10 @@
   text: il faut cependant s' abstenir de tours à ski et de descentes en haute neige hors du terrain sûr .
   date: 2013-06-28T20:46:18Z
   start: 8307.1245351488
-  end: 8316.6911564640
+  end: 8316.691156464
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.769979
   - lab: i
     dur: 0.075
   - lab: l
@@ -108557,11 +108557,11 @@
 - prompt: text_0925
   text: comme de coutume, dans ce pays, il en a imputé la responsabilité à des cadres incompétents dans les ministères .
   date: 2013-06-28T20:46:18Z
-  start: 8316.6911564640
+  start: 8316.691156464
   end: 8327.4652154209
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.949979
   - lab: k
     dur: 0.075
   - lab: '0'
@@ -108709,7 +108709,7 @@
   end: 8334.5705215433
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.579979
   - lab: p
     dur: 0.02
   - lab: a
@@ -108797,7 +108797,7 @@
   end: 8344.5086621329
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.824979
   - lab: l
     dur: 0.1
   - lab: '@'
@@ -108924,10 +108924,10 @@
   text: un mark chez nous ne vaut que quinze pfennigs à l'étranger .
   date: 2013-06-28T20:46:18Z
   start: 8344.5086621329
-  end: 8351.2424489810
+  end: 8351.242448981
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.089979
   - lab: 9~
     dur: 0.155
   - lab: m
@@ -108999,11 +108999,11 @@
 - prompt: text_0929
   text: et certains révèlent des dons et un goût particuliers pour cette tâche .
   date: 2013-06-28T20:46:18Z
-  start: 8351.2424489810
-  end: 8358.9050340150
+  start: 8351.242448981
+  end: 8358.905034015
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.999979
   - lab: e
     dur: 0.1
   - lab: s
@@ -109085,11 +109085,11 @@
 - prompt: text_0930
   text: par ailleurs, la part du marché américain, réservée aux importations, est en baisse .
   date: 2013-06-28T20:46:18Z
-  start: 8358.9050340150
+  start: 8358.905034015
   end: 8367.5892970535
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.574979
   - lab: p
     dur: 0.015
   - lab: a
@@ -109205,7 +109205,7 @@
   end: 8374.5552834481
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.664979
   - lab: o~
     dur: 0.135
   - lab: p
@@ -109291,7 +109291,7 @@
   end: 8381.7999092984
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.754958
   - lab: y
     dur: 0.09
   - lab: n
@@ -109383,7 +109383,7 @@
   end: 8391.1343310671
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.509979
   - lab: d
     dur: 0.19
   - lab: j
@@ -109497,7 +109497,7 @@
   end: 8401.6761904775
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.819979
   - lab: k
     dur: 0.305
   - lab: s
@@ -109645,7 +109645,7 @@
   end: 8409.9889342417
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.114979
   - lab: l
     dur: 0.09
   - lab: '@'
@@ -109763,7 +109763,7 @@
   end: 8418.0694784594
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.844979
   - lab: n
     dur: 0.12
   - lab: u
@@ -109871,7 +109871,7 @@
   end: 8426.1035827678
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.719979
   - lab: Z
     dur: 0.205
   - lab: E
@@ -109973,7 +109973,7 @@
   end: 8435.8559637202
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.459979
   - lab: d
     dur: 0.235
   - lab: k
@@ -110105,7 +110105,7 @@
   end: 8442.8219501148
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.974979
   - lab: l
     dur: 0.11
   - lab: a
@@ -110195,7 +110195,7 @@
   end: 8450.9953741511
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.819979
   - lab: d
     dur: 0.115
   - lab: '@'
@@ -110303,7 +110303,7 @@
   end: 8460.3762358291
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.529979
   - lab: a~
     dur: 0.105
   - lab: f
@@ -110419,7 +110419,7 @@
   end: 8471.0574149674
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.604979
   - lab: s
     dur: 0.2
   - lab: i
@@ -110557,7 +110557,7 @@
   end: 8481.0419954663
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.579979
   - lab: R
     dur: 0.165
   - lab: '@'
@@ -110701,7 +110701,7 @@
   end: 8488.7510204096
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.099979
   - lab: l
     dur: 0.095
   - lab: a
@@ -110801,7 +110801,7 @@
   end: 8498.6891609992
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.044979
   - lab: o~
     dur: 0.105
   - lab: i
@@ -110921,7 +110921,7 @@
   end: 8505.9337868495
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.969979
   - lab: i
     dur: 0.145
   - lab: E
@@ -111017,7 +111017,7 @@
   end: 8514.4322902509
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.964979
   - lab: l
     dur: 0.105
   - lab: e
@@ -111117,7 +111117,7 @@
   end: 8524.2775510219
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.729979
   - lab: a
     dur: 0.13
   - lab: p
@@ -111249,7 +111249,7 @@
   end: 8532.4509750582
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.269979
   - lab: y
     dur: 0.105
   - lab: k
@@ -111359,7 +111359,7 @@
   end: 8542.0640362827
   segments:
   - lab: _
-    dur: 0.67
+    dur: 1.034979
   - lab: n
     dur: 0.13
   - lab: u
@@ -111481,7 +111481,7 @@
   end: 8551.5377777793
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.924979
   - lab: s
     dur: 0.21
   - lab: '9'
@@ -111607,7 +111607,7 @@
   end: 8559.3861224505
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.724979
   - lab: o~
     dur: 0.145
   - lab: E
@@ -111713,7 +111713,7 @@
   end: 8567.4202267589
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.609979
   - lab: d
     dur: 0.14
   - lab: y
@@ -111807,7 +111807,7 @@
   end: 8576.0580498882
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.819979
   - lab: l
     dur: 0.09
   - lab: '@'
@@ -111915,7 +111915,7 @@
   end: 8586.2283900243
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.694979
   - lab: l
     dur: 0.115
   - lab: '@'
@@ -112042,10 +112042,10 @@
   text: la hongrie confirme sa dérive vers l'ouest et pourrait, pour sa part, en tirer quelques bénéfices financiers .
   date: 2013-06-28T20:46:20Z
   start: 8586.2283900243
-  end: 8596.8166893440
+  end: 8596.816689344
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.749979
   - lab: l
     dur: 0.085
   - lab: a
@@ -112181,11 +112181,11 @@
 - prompt: text_0957
   text: clair de terre n'est pas une pièce rose, ça se passe dans nos campagnes .
   date: 2013-06-28T20:46:20Z
-  start: 8596.8166893440
+  start: 8596.816689344
   end: 8604.6185941059
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.909979
   - lab: k
     dur: 0.06
   - lab: l
@@ -112277,7 +112277,7 @@
   end: 8612.8848979608
   segments:
   - lab: _
-    dur: 0.635
+    dur: 1.549979
   - lab: k
     dur: 0.015
   - lab: s
@@ -112369,7 +112369,7 @@
   end: 8620.0830839018
   segments:
   - lab: _
-    dur: 0.61
+    dur: 1.004979
   - lab: s
     dur: 0.17
   - lab: i
@@ -112446,10 +112446,10 @@
   text: le vent des périodes froides avait-il été capable de remonter ces particules jusqu'à la grotte .
   date: 2013-06-28T20:46:20Z
   start: 8620.0830839018
-  end: 8629.6497052170
+  end: 8629.649705217
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.844979
   - lab: l
     dur: 0.155
   - lab: '@'
@@ -112577,11 +112577,11 @@
 - prompt: text_0961
   text: l'équipe américaine compte vingt et un succès dans l'épreuve et l'équipe européenne, cinq .
   date: 2013-06-28T20:46:20Z
-  start: 8629.6497052170
+  start: 8629.649705217
   end: 8638.7983673485
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.459979
   - lab: l
     dur: 0.12
   - lab: e
@@ -112691,7 +112691,7 @@
   end: 8648.5043083916
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.749958
   - lab: l
     dur: 0.075
   - lab: '@'
@@ -112823,7 +112823,7 @@
   end: 8656.2133333349
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.954979
   - lab: l
     dur: 0.095
   - lab: '@'
@@ -112923,7 +112923,7 @@
   end: 8663.2257596388
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.784979
   - lab: a~
     dur: 0.09
   - lab: f
@@ -113005,7 +113005,7 @@
   end: 8670.4239455798
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.824979
   - lab: l
     dur: 0.075
   - lab: '@'
@@ -113097,7 +113097,7 @@
   end: 8678.0865306138
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.639979
   - lab: 9~
     dur: 0.135
   - lab: Z
@@ -113185,7 +113185,7 @@
   end: 8685.6562358292
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.859979
   - lab: n
     dur: 0.115
   - lab: '0'
@@ -113273,7 +113273,7 @@
   end: 8694.2011791399
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.684979
   - lab: l
     dur: 0.12
   - lab: '@'
@@ -113386,10 +113386,10 @@
   text: un broc est un récipient muni d'un bec évasé et d'une anse .
   date: 2013-06-28T20:46:22Z
   start: 8694.2011791399
-  end: 8700.9349659880
+  end: 8700.934965988
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.884979
   - lab: 9~
     dur: 0.13
   - lab: b
@@ -113463,11 +113463,11 @@
 - prompt: text_0970
   text: quant à la serbie, elle insiste, sur la nécessité, de conserver une ligue fédérale unifiée .
   date: 2013-06-28T20:46:22Z
-  start: 8700.9349659880
+  start: 8700.934965988
   end: 8710.1765079381
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.719979
   - lab: k
     dur: 0.03
   - lab: a~
@@ -113595,7 +113595,7 @@
   end: 8717.8855328814
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.464979
   - lab: l
     dur: 0.11
   - lab: a
@@ -113691,7 +113691,7 @@
   end: 8727.4521541966
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.824979
   - lab: m
     dur: 0.11
   - lab: E
@@ -113815,7 +113815,7 @@
   end: 8735.1611791399
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.914979
   - lab: l
     dur: 0.16
   - lab: '@'
@@ -113923,7 +113923,7 @@
   end: 8743.1024036297
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.624979
   - lab: i
     dur: 0.1
   - lab: l
@@ -114015,7 +114015,7 @@
   end: 8750.3005895707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.849979
   - lab: 9~
     dur: 0.125
   - lab: v
@@ -114109,7 +114109,7 @@
   end: 8758.3811337884
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.494979
   - lab: l
     dur: 0.115
   - lab: e
@@ -114199,7 +114199,7 @@
   end: 8765.4864399108
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.414979
   - lab: l
     dur: 0.105
   - lab: '@'
@@ -114281,7 +114281,7 @@
   end: 8776.0282993212
   segments:
   - lab: _
-    dur: 0.645
+    dur: 1.009979
   - lab: t
     dur: 0.075
   - lab: i
@@ -114421,7 +114421,7 @@
   end: 8784.8054421783
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.664979
   - lab: l
     dur: 0.14
   - lab: '@'
@@ -114533,7 +114533,7 @@
   end: 8794.6507029493
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.739979
   - lab: a~
     dur: 0.12
   - lab: f
@@ -114663,7 +114663,7 @@
   end: 8804.4959637203
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.899979
   - lab: d
     dur: 0.13
   - lab: '@'
@@ -114797,7 +114797,7 @@
   end: 8811.4619501149
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.494979
   - lab: l
     dur: 0.095
   - lab: '9'
@@ -114889,7 +114889,7 @@
   end: 8821.6787301603
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.454979
   - lab: '0'
     dur: 0.015
   - lab: R
@@ -115017,7 +115017,7 @@
   end: 8829.5270748315
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.929979
   - lab: m
     dur: 0.1
   - lab: a
@@ -115119,7 +115119,7 @@
   end: 8838.9079365095
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.574979
   - lab: Z
     dur: 0.19
   - lab: e
@@ -115239,7 +115239,7 @@
   end: 8848.1494784596
   segments:
   - lab: _
-    dur: 0.645
+    dur: 1.009979
   - lab: s
     dur: 0.18
   - lab: '9'
@@ -115359,7 +115359,7 @@
   end: 8857.5303401376
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.724979
   - lab: l
     dur: 0.1
   - lab: a
@@ -115477,7 +115477,7 @@
   end: 8865.2393650809
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.234979
   - lab: i
     dur: 0.12
   - lab: p
@@ -115569,7 +115569,7 @@
   end: 8874.6202267589
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.644979
   - lab: k
     dur: 0.025
   - lab: o~
@@ -115687,7 +115687,7 @@
   end: 8883.1651700696
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.389979
   - lab: l
     dur: 0.075
   - lab: e
@@ -115791,7 +115791,7 @@
   end: 8892.1745124732
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.549979
   - lab: m
     dur: 0.11
   - lab: E
@@ -115909,7 +115909,7 @@
   end: 8902.5770521557
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.484979
   - lab: l
     dur: 0.095
   - lab: a
@@ -116044,10 +116044,10 @@
   text: une certaine pauline, qui outre son obésité, est d'une intelligence discrète .
   date: 2013-06-28T20:46:24Z
   start: 8902.5770521557
-  end: 8910.7504761920
+  end: 8910.750476192
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.354979
   - lab: y
     dur: 0.055
   - lab: n
@@ -116151,11 +116151,11 @@
 - prompt: text_0994
   text: dispersées en de multiples endroits, elles n'ont fait l'objet d'aucun recensement systématique .
   date: 2013-06-28T20:46:24Z
-  start: 8910.7504761920
+  start: 8910.750476192
   end: 8920.3170975072
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.494979
   - lab: d
     dur: 0.085
   - lab: i
@@ -116281,7 +116281,7 @@
   end: 8930.3016780061
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.899979
   - lab: f
     dur: 0.095
   - lab: o
@@ -116423,7 +116423,7 @@
   end: 8938.9395011354
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.874979
   - lab: l
     dur: 0.13
   - lab: a
@@ -116545,7 +116545,7 @@
   end: 8947.3451247182
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.524979
   - lab: Z
     dur: 0.17
   - lab: '@'
@@ -116647,7 +116647,7 @@
   end: 8956.2615873032
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.529979
   - lab: l
     dur: 0.13
   - lab: e
@@ -116761,7 +116761,7 @@
   end: 8965.9675283463
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.394979
   - lab: i
     dur: 0.14
   - lab: e
@@ -116885,7 +116885,7 @@
   end: 8975.1161904778
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.679979
   - lab: l
     dur: 0.135
   - lab: '@'
